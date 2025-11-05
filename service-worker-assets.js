@@ -1,52 +1,1160 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-9Aflvim9zzh+\/8OC2gN2kx+NFBxSk28WIbCbiZngNJ0=",
-      "url": "css\/app.css"
+      "hash": "sha256-N1p+QKoFfyOSlX4F9RTHuakraLkBwXJZsH9ba0N+jIM=",
+      "url": "DevTools.styles.css.br"
     },
     {
-      "hash": "sha256-39I0HoYqzK\/986SYAo8kurO0+66GzYYlkgtcWvgFT6c=",
-      "url": "css\/bootstrap\/bootstrap.min.css"
+      "hash": "sha256-4M4zn30EqO8Whbl974gYnuxSsyts2auYY\/tFTv1YpYQ=",
+      "url": "_content\/BlazorMonaco\/jsInterop.js.br"
     },
     {
-      "hash": "sha256-lPl+YkZ5F\/Gqi+xd4+Juk6O2lf8947F0B9TDTF+fxSM=",
-      "url": "css\/bootstrap\/bootstrap.min.css.map"
+      "hash": "sha256-A2dvqfkVyDOytHN2v140umvD0r7+bjAr31TQxYW7iHQ=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/nls.messages.de.js.map.br"
     },
     {
-      "hash": "sha256-BgJpRZSGsv2PCDyutlOHSV9vngLEp53cXBqPpTJlCvE=",
-      "url": "css\/open-iconic\/FONT-LICENSE"
+      "hash": "sha256-fVSuVmQoNZYv6aGECYhb+kh8uR4qIW0RM313JBcHF48=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/nls.messages.es.js.map.br"
     },
     {
-      "hash": "sha256-VKmQXW8mRZ7hoad6E\/sXRxRWnDwfp6ihgfNDt3M7q9Q=",
-      "url": "css\/open-iconic\/font\/css\/open-iconic-bootstrap.min.css"
+      "hash": "sha256-qPQn75nhK0Cp1JhWZMTReu6uArplo8cx8Kfqyf1fJeQ=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/nls.messages.fr.js.map.br"
     },
     {
-      "hash": "sha256-OK3poGPgzKI2NzNgP07XMbJa3Dz6USoUh\/chSkSvQpc=",
-      "url": "css\/open-iconic\/font\/fonts\/open-iconic.eot"
+      "hash": "sha256-+wXuIzrlfNn5YS18sLE2JKSpwuws5hmZKsSJugUDvF0=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/nls.messages.it.js.map.br"
     },
     {
-      "hash": "sha256-sDUtuZAEzWZyv\/U1xl\/9D3ehyU69JE+FvAcu5HQ+\/a0=",
-      "url": "css\/open-iconic\/font\/fonts\/open-iconic.otf"
+      "hash": "sha256-2tWtLfaTILYUq96b1rkaZGNTT1sZwVeG0Kl2BSQSAIo=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/nls.messages.ja.js.map.br"
     },
     {
-      "hash": "sha256-u+GkRX\/3vmziPc6M\/O+lTRu+QNOFBJg8DNTfcSFPI\/k=",
-      "url": "css\/open-iconic\/font\/fonts\/open-iconic.svg"
+      "hash": "sha256-3pfhWLgKG8cHOn5nqCJChseFPM6fEINwfFMqdS3ol9U=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/nls.messages.ko.js.map.br"
     },
     {
-      "hash": "sha256-p+RP8CV3vRK1YbIkNzq3rPo1jyETPnR07ULb+HVYL8w=",
-      "url": "css\/open-iconic\/font\/fonts\/open-iconic.ttf"
+      "hash": "sha256-Xo8E20RiOK1I8MZ1pCsO17exOPPitQJpGc3S6MXnPMY=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/nls.messages.ru.js.map.br"
     },
     {
-      "hash": "sha256-cZPqVlRJfSNW0KaQ4+UPOXZ\/v\/QzXlejRDwUNdZIofI=",
-      "url": "css\/open-iconic\/font\/fonts\/open-iconic.woff"
+      "hash": "sha256-kOZxV5wG2U3m\/vvbRqTh9OeHAxcVAlM6U\/Ua7tAn4U4=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/nls.messages.zh-cn.js.map.br"
     },
     {
-      "hash": "sha256-lmR0kygUnUAknae38gH2rAsdPtwBPv4tfDUB8r3vMes=",
-      "url": "css\/open-iconic\/ICON-LICENSE"
+      "hash": "sha256-nZFN9tKoX3EBOkys37dPc\/UcPsC0eYGevPAbwrBXc3s=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/nls.messages.zh-tw.js.map.br"
     },
     {
-      "hash": "sha256-\/Uc1b0FG5uhk6lrv1TdFJRg4dPLwEAig7plqzd0VNxg=",
-      "url": "css\/open-iconic\/README.md"
+      "hash": "sha256-cKnD4YN2RBjZvIevfBGFaeYqRVgfEE5sh6AZMwPXcsc=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/base\/worker\/workerMain.js.map.br"
+    },
+    {
+      "hash": "sha256-t4UE+1bYg6nMuSCdwoOPJhQ3NZr3cLYR6pDkqddBbv8=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/editor\/editor.main.js.map.br"
+    },
+    {
+      "hash": "sha256-dhw84Fg28V6BJ4bfGn8E2cIEv0cEFxvG7XTVd9p+nU0=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/loader.js.map.br"
+    },
+    {
+      "hash": "sha256-Dx1SGZNOlug7jbFi1gtNjAm13h59OAMcuv5KPA8oick=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/browser\/ui\/codicons\/codicon\/codicon.ttf"
+    },
+    {
+      "hash": "sha256-9cTlAPVHHtmA7yx4RazkpWsPC2aRln4jkuzV7Rr0rBU=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/worker\/workerMain.js.br"
+    },
+    {
+      "hash": "sha256-mCHAeRtdiGaR\/3hiJARRho\/wQy+DcrrTUZDWbA6893E=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/abap\/abap.js.br"
+    },
+    {
+      "hash": "sha256-Klwf+t5KQdbEfyQekos2izrfJ68FJsMVdvulnIn007E=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/abap\/abap.min.js.br"
+    },
+    {
+      "hash": "sha256-O\/iZjw8QySNVzbMkSL5kvY1nwLjXUz8kx+PTgLzKpTA=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/apex\/apex.js.br"
+    },
+    {
+      "hash": "sha256-fsp\/bD0qh1hD9bOVQzzKz30wMx\/A7kD6o0N+reQ7CT0=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/apex\/apex.min.js.br"
+    },
+    {
+      "hash": "sha256-eaqxmopPcp8aNQHpZ82Wpl1GVtIYi6BVi042VYMbY9E=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/azcli\/azcli.js.br"
+    },
+    {
+      "hash": "sha256-uUtyItLEvYL8a70sCbdW1Ux80bq\/BS2hqPxsDzAcuC4=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/azcli\/azcli.min.js.br"
+    },
+    {
+      "hash": "sha256-YxxIC8VKn5YpageIhg3xOllXLKgHbaaarH4z3F\/P89g=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/bat\/bat.js.br"
+    },
+    {
+      "hash": "sha256-dqGzgDC+voNItFRaCbbUbZtdhATGcVkCh57t\/Jh0MQA=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/bat\/bat.min.js.br"
+    },
+    {
+      "hash": "sha256-UKqsln9H7WWtXDVnmh4kUV+7BTs25EIjcKJhhaBa5uI=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/bicep\/bicep.js.br"
+    },
+    {
+      "hash": "sha256-PrSdFZedU1DNP4fOsD+oFCeDHpFKQbk83Lg1D5ea4Vg=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/bicep\/bicep.min.js.br"
+    },
+    {
+      "hash": "sha256-mmKpU5tZfoRiDWzDSzfkxecdWD33lmzvI62QCMLMYwE=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/cameligo\/cameligo.js.br"
+    },
+    {
+      "hash": "sha256-0eui+0C+83PpcAUJRicbJNYLsKpMFuMAWRbw8ZfAVtE=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/cameligo\/cameligo.min.js.br"
+    },
+    {
+      "hash": "sha256-Q4wuOuGz8QCYDj0UDtgdLm9B3pW+Xv8VuF8W6HIYgpY=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/clojure\/clojure.js.br"
+    },
+    {
+      "hash": "sha256-UUJwlxv8njK26iTt+NF7iEsW+nowJtbJZEbY99bd360=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/clojure\/clojure.min.js.br"
+    },
+    {
+      "hash": "sha256-iNdWyJlTGPYuT7f9XBgHdLHZ+au93xubK\/ITszEI10Q=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/coffee\/coffee.js.br"
+    },
+    {
+      "hash": "sha256-+Op5cUWIvoP2\/0aAJutA35cMUiJoQuv+VFP4OaBtay0=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/coffee\/coffee.min.js.br"
+    },
+    {
+      "hash": "sha256-0RD2NTz\/yuZ5UfSdqRFnD+VYUJ8eMpfIUtSCJGOsLJ0=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/cpp\/cpp.js.br"
+    },
+    {
+      "hash": "sha256-q\/\/eKhcrYdp2psO3YFHywoHdLSYjh5cxA84MfxL4IcQ=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/cpp\/cpp.min.js.br"
+    },
+    {
+      "hash": "sha256-\/q+uEzDwM9pdLw4HzpCa6bMy9wGW80tD4H0IfgkuRJU=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/csharp\/csharp.js.br"
+    },
+    {
+      "hash": "sha256-0WIIUVunMsY+RQx40guBCabYVK5za0Jh4j+IQcL07\/Y=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/csharp\/csharp.min.js.br"
+    },
+    {
+      "hash": "sha256-K5KM9N5\/l7i\/tBNXNcPtcxM1G91x6nVp+2OmbuGTrrQ=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/csp\/csp.js.br"
+    },
+    {
+      "hash": "sha256-fF6L\/PfOIjIQIe4+73Toi78S1X0EKkRMQbA1lH2qCsU=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/csp\/csp.min.js.br"
+    },
+    {
+      "hash": "sha256-wG+hsZOOdgNpjPGszxxZCMOpWXXZF1LLhRlm9L3Y6OM=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/css\/css.js.br"
+    },
+    {
+      "hash": "sha256-LGA\/wtpKu7u5YL7y5f6ojClRh0W+4IzUFKdse90cgE0=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/css\/css.min.js.br"
+    },
+    {
+      "hash": "sha256-BQimYRVjP+J0J\/ab0np0wUs3WnTZFgsVhcBhnYY8AHY=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/cypher\/cypher.js.br"
+    },
+    {
+      "hash": "sha256-5SqqMfWBRJ1yPfoxAZWaltwi0+ufFH25HfVinrT1sNQ=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/cypher\/cypher.min.js.br"
+    },
+    {
+      "hash": "sha256-H7JegRF+ZIRZJQVFYEtWQUZBsV3NQBj3APXU1E51vC4=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/dart\/dart.js.br"
+    },
+    {
+      "hash": "sha256-7uE9laQHet6GuWxvcWYrkQU6xKme3pfwicBsYwznBAs=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/dart\/dart.min.js.br"
+    },
+    {
+      "hash": "sha256-ug3DW4xYqh7OqrqcUsGtokgq1XpbNLh9wpGodHkb2X0=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/dockerfile\/dockerfile.js.br"
+    },
+    {
+      "hash": "sha256-uiFJ8QNExlFJoBGgCQ1AE\/3Zw8Te2bKXEW4Q3rG6+kg=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/dockerfile\/dockerfile.min.js.br"
+    },
+    {
+      "hash": "sha256-mDYrKffEd+W2ZO8zi7WIMrIiGVO2zuP0MfzLUxjVBF4=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/ecl\/ecl.js.br"
+    },
+    {
+      "hash": "sha256-4eOnnRPuOHavTVd+89WVmWzM3mLX7e+5Z2s4MjrYSHQ=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/ecl\/ecl.min.js.br"
+    },
+    {
+      "hash": "sha256-SPWcDpc3TiPUJ25dqTZUA8Bze7l11q54CCzKjpNyJmo=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/elixir\/elixir.js.br"
+    },
+    {
+      "hash": "sha256-hgnF3VayS3anS\/mhrrFetO7GkOMJmNLYVYiaZP6nkKE=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/elixir\/elixir.min.js.br"
+    },
+    {
+      "hash": "sha256-HrJV73DPue9kaP8KkLsHCfijM3WW1XBkMqPCDl9gEeE=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/flow9\/flow9.js.br"
+    },
+    {
+      "hash": "sha256-HUE4CvG0XtqDgLhqXBS+wm1kkZsSy8v9sKRUjlZminw=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/flow9\/flow9.min.js.br"
+    },
+    {
+      "hash": "sha256-I\/0L9fLMCFsTOyjZBv5xm+b9MaEQceMtg11QsWWlgm4=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/freemarker2\/freemarker2.js.br"
+    },
+    {
+      "hash": "sha256-KQUZI5Q7vphN22iOwtTGGQqAUXMwIxxOwTu9LJa7CZk=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/freemarker2\/freemarker2.min.js.br"
+    },
+    {
+      "hash": "sha256-LpemyVIQeMnHyQQDR5YeA1rB9vwZ0drp+92Ud8DJcf0=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/fsharp\/fsharp.js.br"
+    },
+    {
+      "hash": "sha256-7+TL+fd7KcUhGR6lUPWpgjjQTv7S+mII8en24S7gGMI=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/fsharp\/fsharp.min.js.br"
+    },
+    {
+      "hash": "sha256-tlaB7Y9RwPKx\/m\/+5mMOCvuy9\/5rS0zudjmAsbZM+5Y=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/go\/go.js.br"
+    },
+    {
+      "hash": "sha256-HKgM9BNBQC3wxz87yVXGjmjXqEp83Bh+r0ZtR3e\/7q8=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/go\/go.min.js.br"
+    },
+    {
+      "hash": "sha256-cpAULIPzZxnvF4zhkkTOXdaX\/aUYjQGPKWGr9+8EUrg=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/graphql\/graphql.js.br"
+    },
+    {
+      "hash": "sha256-e+4dcl7D7SvyL46cCJJp6C+ow0X27hhWVa8ZI5Atu8c=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/graphql\/graphql.min.js.br"
+    },
+    {
+      "hash": "sha256-zFS7P+0tbskkRdc5nWJqoYaAgOk3WcY2LcPSIMPGB9w=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/handlebars\/handlebars.js.br"
+    },
+    {
+      "hash": "sha256-kC3yEoSY7NfWnqvyaozuW6oXq0s17tDOzCUmlPiTUNA=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/handlebars\/handlebars.min.js.br"
+    },
+    {
+      "hash": "sha256-k60SVlk11CKT+AR7+\/kedhE40a6vgEreoULXNN4GEcU=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/hcl\/hcl.js.br"
+    },
+    {
+      "hash": "sha256-z6BksPkBV7oUtx+qf6PCisl1XHk597Ka8wZJDposbZo=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/hcl\/hcl.min.js.br"
+    },
+    {
+      "hash": "sha256-LKGmiJJhbWEobO6MbBqHHdrhSG\/iaMsdhQ4luCmXbIE=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/html\/html.js.br"
+    },
+    {
+      "hash": "sha256-ixr1YRUfekK4qRVtOB0R8ZrGXF8VXW56eIqlYGOvcZg=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/html\/html.min.js.br"
+    },
+    {
+      "hash": "sha256-uePQcGBHgpyKwQOwxC9ZvzYX\/Ix8qRcPzydME\/sxSXc=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/ini\/ini.js.br"
+    },
+    {
+      "hash": "sha256-NDjhEEkD5O6e39T9zt6SAVIXDJnX1O2PtweqltNSd5k=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/ini\/ini.min.js.br"
+    },
+    {
+      "hash": "sha256-eUHvVLmFl1xIifYMGhAGmeBEfM6yObptZoJAWpWkVrw=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/java\/java.js.br"
+    },
+    {
+      "hash": "sha256-lLkLaTWwzzYnChEuyMPFQcQjEjA46nkEg0q8ZxRQ7\/I=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/java\/java.min.js.br"
+    },
+    {
+      "hash": "sha256-eDE+hv5Snwg0ncTMfuSyzfrTXCLPVTgvMkgnp7Vk64g=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/javascript\/javascript.js.br"
+    },
+    {
+      "hash": "sha256-YbdwyDwmlIV0CXIThkJKrx98jzWRePYIhEAQs1uHBVk=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/javascript\/javascript.min.js.br"
+    },
+    {
+      "hash": "sha256-mv2uUKCr+W4PGpFhTDDZHQqJcJ62LfP1TaDLe6ddzNA=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/julia\/julia.js.br"
+    },
+    {
+      "hash": "sha256-NiHqpa6RtGHDo6pqHERkyqnZs8+Qbj61xLzP7e956yM=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/julia\/julia.min.js.br"
+    },
+    {
+      "hash": "sha256-ahESxG159n6Z7lrVgMw4hIOvQyudPGMr3lq4Gwisg70=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/kotlin\/kotlin.js.br"
+    },
+    {
+      "hash": "sha256-mmD67nPo3XfdIVGJZ1j9QjC83nzdTfi7eKl\/csYqAdM=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/kotlin\/kotlin.min.js.br"
+    },
+    {
+      "hash": "sha256-4M33QdBFmJyIoLnVM6Zu+JIq\/5ajm\/OFNDLOCEsph6A=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/less\/less.js.br"
+    },
+    {
+      "hash": "sha256-53H\/PimZ99YVQ6Vg51xtkl+1OzqEi2D21xAWYYAnSaQ=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/less\/less.min.js.br"
+    },
+    {
+      "hash": "sha256-XePh4HYLNYCD\/aR7Osu+cOlV2NhhEd+Qbqn96yJLgEM=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/lexon\/lexon.js.br"
+    },
+    {
+      "hash": "sha256-PA\/yUNGErIUJb41N7MSt+tKJZ4O8t5C4PMoD4Hp7XBc=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/lexon\/lexon.min.js.br"
+    },
+    {
+      "hash": "sha256-I2yxqRBY+PptJGQ7c31pBpnlnBDhTbpoJP04SYyEr98=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/liquid\/liquid.js.br"
+    },
+    {
+      "hash": "sha256-e6iThwdreQTNUHNZB\/xFWtRkvg6OTb214koalVX2N8o=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/liquid\/liquid.min.js.br"
+    },
+    {
+      "hash": "sha256-bixzejW381JMlmCk22kND32cGpZ+pJOWD7m5lyP3JVI=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/lua\/lua.js.br"
+    },
+    {
+      "hash": "sha256-S5mmp9zdy1tvPxJDybh9tnFPzBBlPQHtaClWsAevs3Q=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/lua\/lua.min.js.br"
+    },
+    {
+      "hash": "sha256-5gD7tXm6pKXbLLJCXO1rFQeqSkE0T2hgyjFGwEhHsrQ=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/m3\/m3.js.br"
+    },
+    {
+      "hash": "sha256-C94jI3SF3EoFIX0ZDZ8bUOp6C\/fIUZUbwOclM4m6byE=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/m3\/m3.min.js.br"
+    },
+    {
+      "hash": "sha256-fz0Yt70\/cfwWKXB\/ZGC5bIlLJUOYq3UAq34B0Yyi7as=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/markdown\/markdown.js.br"
+    },
+    {
+      "hash": "sha256-HthGqTxq7ALpe7OpOXHevAmuWDMX17HvjN0oMIltplY=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/markdown\/markdown.min.js.br"
+    },
+    {
+      "hash": "sha256-WkddejBSvfBZfU1blCav2zs55mrPsXcgFafH3C9VTa8=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/mdx\/mdx.js.br"
+    },
+    {
+      "hash": "sha256-hO2yKS4ySt+cZXSCP21xeEAogUN5dEZ1A9MJsjVerwU=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/mdx\/mdx.min.js.br"
+    },
+    {
+      "hash": "sha256-K28DLlorVW5p31UIsIlGyuUanJf8flWJabn4dJe9ydw=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/mips\/mips.js.br"
+    },
+    {
+      "hash": "sha256-vGdvYPSpHgDWCcJeCle8VlUwi9NhhY57x+Jq18vDTjk=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/mips\/mips.min.js.br"
+    },
+    {
+      "hash": "sha256-gRusj53GoiRSiEWr71NlWpBIAV0FYPUNcsiUu44liI0=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/msdax\/msdax.js.br"
+    },
+    {
+      "hash": "sha256-jt9pKm5OY+CK8z7X11PQpAhubnaabFDzws73udT2i50=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/msdax\/msdax.min.js.br"
+    },
+    {
+      "hash": "sha256-mREfMAYJBjSfsMAiKIhH6kmVu0uRZTO\/QlOiOgzyu3E=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/mysql\/mysql.js.br"
+    },
+    {
+      "hash": "sha256-IggAoLAZ0fSkS08wMHRTaIlbJmwDKJutkP0S6q7TH2s=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/mysql\/mysql.min.js.br"
+    },
+    {
+      "hash": "sha256-fId4ugsQeMwGNMuoQbBzv2Me26Ukz\/SGZKxPaZPCTcM=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/objective-c\/objective-c.js.br"
+    },
+    {
+      "hash": "sha256-zzqNc1oUYBuu0uIh5uqbPJPMCPiXAqqaHPrh9NxYfuU=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/objective-c\/objective-c.min.js.br"
+    },
+    {
+      "hash": "sha256-4stK4dntR\/O9CB+MRUJdpdhyVtrAYwoI7RtE\/\/cF1N4=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/pascal\/pascal.js.br"
+    },
+    {
+      "hash": "sha256-LuT2Q\/h6fuq+ZBxDJgaei\/hCX3GRsTPyDBRsL2KluQI=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/pascal\/pascal.min.js.br"
+    },
+    {
+      "hash": "sha256-jhqPJglEO1Vwt1XaRCANJHf93\/\/DqmcuScCeqRKf6mM=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/pascaligo\/pascaligo.js.br"
+    },
+    {
+      "hash": "sha256-d3pB2C3VD7ZKsWDW9hzlmm+6+bXC3Df+DR88zDPbrY0=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/pascaligo\/pascaligo.min.js.br"
+    },
+    {
+      "hash": "sha256-kRYxj7aC7PL5wmCJFMalFNun+pUc8iFNebraW2hmkqs=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/perl\/perl.js.br"
+    },
+    {
+      "hash": "sha256-Q1rzEpFS2kGHjVD0usQgvAWouIjgd3Jlnbn8Zn7WjMs=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/perl\/perl.min.js.br"
+    },
+    {
+      "hash": "sha256-Lp8qTwH99g0dYYO2StD4sCpOW1\/FcfxydygYE8ZrkZ8=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/pgsql\/pgsql.js.br"
+    },
+    {
+      "hash": "sha256-N14GS0hGkav5lyKq5XgQIiWtobZfULSPi9PntGzJxxw=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/pgsql\/pgsql.min.js.br"
+    },
+    {
+      "hash": "sha256-2u0sfT\/dgsKTj5wLDnHA1XEbfF9L0t2vgS\/\/7aTeC2g=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/php\/php.js.br"
+    },
+    {
+      "hash": "sha256-JutSHOjwYKNNWoI9bb6Ke393EhlYBevHTm+ZsqzI+hI=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/php\/php.min.js.br"
+    },
+    {
+      "hash": "sha256-mGhyuU+D3sv5GDBO83AZ0VGE0YrYXGVg7yk6sHLVaUM=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/pla\/pla.js.br"
+    },
+    {
+      "hash": "sha256-jBWSm9DdasnCNNiWhS1cudB7vopKFofLg4NnfFiCENo=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/pla\/pla.min.js.br"
+    },
+    {
+      "hash": "sha256-nxbV41fzloZ9YrxVqU86ErpGXp12jQxaikl9cWCJ3XQ=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/postiats\/postiats.js.br"
+    },
+    {
+      "hash": "sha256-EXfVMwpiPDUQ1k6ZE++UREoxCZRgJTw2r\/kfAv8LNA8=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/postiats\/postiats.min.js.br"
+    },
+    {
+      "hash": "sha256-JZrgAIwGpwkZZmM2Ia2Nv\/VaFANlu8yycEDGvSG+AM0=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/powerquery\/powerquery.js.br"
+    },
+    {
+      "hash": "sha256-xFHvgSuUUbAG3MZn+OZegm5i\/Bn1Qskh+bupOfe2P7w=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/powerquery\/powerquery.min.js.br"
+    },
+    {
+      "hash": "sha256-5jQLFalDCRsfKRWv4yso7e9YxXFurvA0+TGgfUOsAPs=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/powershell\/powershell.js.br"
+    },
+    {
+      "hash": "sha256-FKINAHybGJ1b5dzvLZVa8i3HaG1OK6GMdrpKxqBdPhE=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/powershell\/powershell.min.js.br"
+    },
+    {
+      "hash": "sha256-o5BQ7Lh2fpI5JkJ1AZCtPZVo\/MNEQrMfbGunPRVgLHE=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/protobuf\/protobuf.js.br"
+    },
+    {
+      "hash": "sha256-7FBquF3m95Zf2eecyOaeWrUHVbrenJl5HrTETlmzLPA=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/protobuf\/protobuf.min.js.br"
+    },
+    {
+      "hash": "sha256-4hrwTs008ie2NxJHp2QpS6BLTWGQZe0gsStEF7tdzJA=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/pug\/pug.js.br"
+    },
+    {
+      "hash": "sha256-ibV5VibK4KswplQQr\/oyfzzwaGAtnMBFTwOSaSzMNnw=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/pug\/pug.min.js.br"
+    },
+    {
+      "hash": "sha256-IpnzYezQSmjEdvqDKPfgQFKZrbz0X\/JZQ4VVHQQz9fk=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/python\/python.js.br"
+    },
+    {
+      "hash": "sha256-4mekQlMSlv1PPuFoIhmylXYPFkS0sXKKnPSSUaajVo0=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/python\/python.min.js.br"
+    },
+    {
+      "hash": "sha256-XmhTFHtABhaRFZIp9\/dSXQvBl8R7bLR+Ah7gTWnGOBg=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/qsharp\/qsharp.js.br"
+    },
+    {
+      "hash": "sha256-KAjxt09wZ7Jz0M4HKRU3YTdtqWbl+7z41jRHwaai02I=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/qsharp\/qsharp.min.js.br"
+    },
+    {
+      "hash": "sha256-18JfNXojlLyt2qOr93SC5JgAXLIqIlJrk4byHHTK9eo=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/r\/r.js.br"
+    },
+    {
+      "hash": "sha256-wbq+ZMjSxTwYrzUvohss9fDXmyD7LZ4DCUvJVflmbAw=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/r\/r.min.js.br"
+    },
+    {
+      "hash": "sha256-0cCFyBtFoKIc9tWGgBHzeES1DvvJMYvQ7xnuPcw01dc=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/razor\/razor.js.br"
+    },
+    {
+      "hash": "sha256-+F9UjmQjH3w1wS4ISTsY3u4DzDXL71qR\/YIFErc99Bg=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/razor\/razor.min.js.br"
+    },
+    {
+      "hash": "sha256-C3BGu3feHp+JOBZzKaC6Jw1Q7fU6sbiwgbmtx9kiw+Y=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/redis\/redis.js.br"
+    },
+    {
+      "hash": "sha256-DYgbGZvm4tRwXywWzgLc77eFMbKNvK6FVzcIydjGDRA=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/redis\/redis.min.js.br"
+    },
+    {
+      "hash": "sha256-+QccIO2qBZ\/tPn3Z7Kz8DUZGCF4lqP9mNIRh0dwT2mk=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/redshift\/redshift.js.br"
+    },
+    {
+      "hash": "sha256-5BlywRpP6jToCnRcXHbv7wkwTenBRdI4hM3PC9n1Qho=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/redshift\/redshift.min.js.br"
+    },
+    {
+      "hash": "sha256-nabVMJKkxK6Ou1uklxPrKY+foFvnVB7TtkWXZa8f8qg=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/restructuredtext\/restructuredtext.js.br"
+    },
+    {
+      "hash": "sha256-+chpUM7dCzCFJuUjdKG5\/wm389OgdRn0Y85Uo6MMBfs=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/restructuredtext\/restructuredtext.min.js.br"
+    },
+    {
+      "hash": "sha256-TjZ2us6l7JX6dq9efzMjfDqlrbzBiBLLoOn5uY8Zyv4=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/ruby\/ruby.js.br"
+    },
+    {
+      "hash": "sha256-zXwS0PFPWiHMi5kXIJm1ndsRvttsPVsbyX0j3VUG+FI=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/ruby\/ruby.min.js.br"
+    },
+    {
+      "hash": "sha256-NbCuseIh65bvCQkCqQWyjzWX6ejTnEmFa4M6xph+RU0=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/rust\/rust.js.br"
+    },
+    {
+      "hash": "sha256-5vEdKw1839E+DOMlloOCb0sm0cjWMre1l+H9sCUU2AY=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/rust\/rust.min.js.br"
+    },
+    {
+      "hash": "sha256-6csARGTM94UYKM0QZ6pbMnWRbCZdjSAwwsYeNQdeQwg=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/sb\/sb.js.br"
+    },
+    {
+      "hash": "sha256-uAj+oRp9cHWViS30cRt85snN0zBwyQzS6zxMNeBL8KM=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/sb\/sb.min.js.br"
+    },
+    {
+      "hash": "sha256-A\/ZpdPeTlRB\/kS6PhyLEb2\/SRJeNjCnblEmtFcjR2AE=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/scala\/scala.js.br"
+    },
+    {
+      "hash": "sha256-CPY84\/+tyUxXG\/G3ndO7GmypvB5zhuo\/UNxm5WRk774=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/scala\/scala.min.js.br"
+    },
+    {
+      "hash": "sha256-RBtLJFNE5NtIcf0H3uVuTAWP+3llMRSvQnn5A37500c=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/scheme\/scheme.js.br"
+    },
+    {
+      "hash": "sha256-fIXQj08zyJxZ8OrawVSDY\/d9hbgDDWz0ElXKy9zxAJo=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/scheme\/scheme.min.js.br"
+    },
+    {
+      "hash": "sha256-UZDuOF+6aWpQGM7kmKaj5FO8szznhYC4LBNl5WYHqb4=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/scss\/scss.js.br"
+    },
+    {
+      "hash": "sha256-e5qKLTw7uVxaxE8VJF9MzYbweU9u1kaD4Z9eJmbKHrk=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/scss\/scss.min.js.br"
+    },
+    {
+      "hash": "sha256-u4wjI\/hyV3SXjWz7lyXlYwLVJAvCpH0wDjovt3p4BrM=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/shell\/shell.js.br"
+    },
+    {
+      "hash": "sha256-dHHbP1qhvR0V5Qh9Sdy3F67zIEs2EaEgow7ckBcPwWQ=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/shell\/shell.min.js.br"
+    },
+    {
+      "hash": "sha256-VMLVHBCZD4rQn71+jnqOmLhP75U5GCJICF\/SHXseoXw=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/solidity\/solidity.js.br"
+    },
+    {
+      "hash": "sha256-NlU9P1uivgFQZV7DYj7Ayl1OF9MPboSLKVss2HYazeQ=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/solidity\/solidity.min.js.br"
+    },
+    {
+      "hash": "sha256-lh5w\/N6dy2oK72vdz9xrVPYc75o4BENP1vY5KwjQnY4=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/sophia\/sophia.js.br"
+    },
+    {
+      "hash": "sha256-xqJquVfcQueT63FSHaeSplYriYkDx+FGVyGOh5vVGUc=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/sophia\/sophia.min.js.br"
+    },
+    {
+      "hash": "sha256-ia7KwPSc6hx4+WEF6EZDiMUNVgFg\/mpnwMkg8tqJCD4=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/sparql\/sparql.js.br"
+    },
+    {
+      "hash": "sha256-3OWPIZEDpoBnitOLHhaPz4Dc0EeOQuMtaLZBLQQxodw=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/sparql\/sparql.min.js.br"
+    },
+    {
+      "hash": "sha256-5AnKzPZDCLkS8fONgfiEtbYzShrdzamlTmMCWMmqy14=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/sql\/sql.js.br"
+    },
+    {
+      "hash": "sha256-otd82R8EcGr8ifSKmK69E0cl8cEELig+eQeFxuXuOS0=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/sql\/sql.min.js.br"
+    },
+    {
+      "hash": "sha256-9YBh0jp7T1TYign4hac84LyXojHcOpaLVpWfvLOvkuQ=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/st\/st.js.br"
+    },
+    {
+      "hash": "sha256-HEXm0tErLnpdpmvc\/aNI1oGMa0rrf516NKgOTB9Pvz8=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/st\/st.min.js.br"
+    },
+    {
+      "hash": "sha256-XnIOCQyzz72ZTL7GgsoAUIeQwrCziIjCehMebGwCR6w=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/swift\/swift.js.br"
+    },
+    {
+      "hash": "sha256-BhnhXj4A+IuYL4kTAEi3bWXbI9uLZDA1hQtXoDJKXh4=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/swift\/swift.min.js.br"
+    },
+    {
+      "hash": "sha256-smOqRk73DXibcGvCzPkZ+Yri3gQb0uB4N7vTMs1EMFI=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/systemverilog\/systemverilog.js.br"
+    },
+    {
+      "hash": "sha256-3pVTZil8cUa7S8Is5eDxe5AP0Y43UkHbUinNFWh3dFc=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/systemverilog\/systemverilog.min.js.br"
+    },
+    {
+      "hash": "sha256-Y9PwFrk2smQoBBuI9xFTdyPAnDWPQpASK9cBTYzB1zU=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/tcl\/tcl.js.br"
+    },
+    {
+      "hash": "sha256-4hGyWsUgjhKONRiAhNz6qSY3AY5+KUcI5g6JiX3E5xM=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/tcl\/tcl.min.js.br"
+    },
+    {
+      "hash": "sha256-+bknfYHm30\/EtIlL\/R0v4G3aaqJbwK5vOLHQtNWJ8D0=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/twig\/twig.js.br"
+    },
+    {
+      "hash": "sha256-fsxO4nRS6M3RJnqsoStKaltgylxSnvTszWReMqRp\/IQ=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/twig\/twig.min.js.br"
+    },
+    {
+      "hash": "sha256-H1Qx\/ApDfL+dUSLQfo37\/rWDYDZ2g+CyW5tyMIvdChw=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/typescript\/typescript.js.br"
+    },
+    {
+      "hash": "sha256-o0bI5cKnYhNyJ6ZbGNG1bwZdpFLrGayio1MnkzsDg3o=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/typescript\/typescript.min.js.br"
+    },
+    {
+      "hash": "sha256-cbZmUlDNjxt\/c7gm9GY5AolCYaXqgnZgGEN152kICbY=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/typespec\/typespec.js.br"
+    },
+    {
+      "hash": "sha256-NGx2g0Xi+2e8b\/1eL7RPkZN\/obvuXN17v5W7rbREb8A=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/typespec\/typespec.min.js.br"
+    },
+    {
+      "hash": "sha256-iaIqoUlLpwsf2irbAdM3albywOto6VI00PVR+PGSIgk=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/vb\/vb.js.br"
+    },
+    {
+      "hash": "sha256-I6boZv8XXufLKCkez3Ui5cOwsmAHjVSm5pZU93McGKw=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/vb\/vb.min.js.br"
+    },
+    {
+      "hash": "sha256-ZW7aaDRcjfxXUun\/DpdPQLamw5GMf6qzY1kYSbkrYT4=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/wgsl\/wgsl.js.br"
+    },
+    {
+      "hash": "sha256-PaqcMc35YkwbqDjE\/3r1KLNQsuJIkh\/hGOZ3oQL7ZXw=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/wgsl\/wgsl.min.js.br"
+    },
+    {
+      "hash": "sha256-WHR47+LLgersnDe4uL5Rs6HrKWz5TGRyagEZYiVJdJY=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/xml\/xml.js.br"
+    },
+    {
+      "hash": "sha256-\/fK0bcCsdzn4UOy+tq+k\/sWou\/MkOkROIPHPfQLMhPw=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/xml\/xml.min.js.br"
+    },
+    {
+      "hash": "sha256-pq4gOs76oShmgNozJlin240VfpmdKsmHeW\/+PKK9yF8=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/yaml\/yaml.js.br"
+    },
+    {
+      "hash": "sha256-ENo3uODyfs7ougo0JEEisiLFIzXC\/bJ7Q98aRwusba0=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/yaml\/yaml.min.js.br"
+    },
+    {
+      "hash": "sha256-f0tElo7+QL7qWWjny3nVY1Vm4Gez30sJ4Q4cd+pywNg=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.css.br"
+    },
+    {
+      "hash": "sha256-IKMuenNISF\/I03m7V\/gMnufy\/07StVUt1Wwh2LFi\/yw=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.js.br"
+    },
+    {
+      "hash": "sha256-stJZt8\/9X2NAJai9JsFp5\/V0mnnjDsP0ig0THZTuu4U=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.min.css.br"
+    },
+    {
+      "hash": "sha256-qDQPZlX8yLq93LcPi0QhnYhIY0vb+tVOiKESb8Jd+yY=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/css\/cssMode.js.br"
+    },
+    {
+      "hash": "sha256-onI6N6MwwuJKARD96x\/HYs8KwOG7ygo9QAOfahJdYqQ=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/css\/cssMode.min.js.br"
+    },
+    {
+      "hash": "sha256-186QTFmnZS1dbkljK1aWHsae5Kwsi1mXecXTXJcZ2GA=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/css\/cssWorker.js.br"
+    },
+    {
+      "hash": "sha256-l8pmKfgj3RKUknmeqLIwURCKN6mgmC0GQFHWfJc+d70=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/css\/cssWorker.min.js.br"
+    },
+    {
+      "hash": "sha256-2ncGHEPknj5s9ctiBZ1u8n9FQZGreb0c\/jKG2NbRHbo=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/html\/htmlMode.js.br"
+    },
+    {
+      "hash": "sha256-2e4QpZ5Q2X2gUF55\/HAL3yBuWpj5QH2utNdPOMyP34s=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/html\/htmlMode.min.js.br"
+    },
+    {
+      "hash": "sha256-6CNkY1FjW+U3qgGIMt7B8RTeLtHcG\/iBU\/n8metJlOk=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/html\/htmlWorker.js.br"
+    },
+    {
+      "hash": "sha256-uM0gt0K5l70HtrnFiQVMwmyX5nSfjR70TMNHIlMmizo=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/html\/htmlWorker.min.js.br"
+    },
+    {
+      "hash": "sha256-bYEeacJdvUQ7q6iZfyjWD0eel\/6KvrDVF6\/hyCxN36Y=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/json\/jsonMode.js.br"
+    },
+    {
+      "hash": "sha256-\/Kq9WBBEXNmg5k1jsiD0OxNi1TY7VzbV3jZCUiIfnpw=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/json\/jsonMode.min.js.br"
+    },
+    {
+      "hash": "sha256-tNacy4XF1AYcEf2SuF1yUvIEDvA7h6DbQbLIGwA6cHo=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/json\/jsonWorker.js.br"
+    },
+    {
+      "hash": "sha256-ZvsUy1UDgABsLhsGEiCs7S7reuYJWjyKXZO1dj3pUzE=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/json\/jsonWorker.min.js.br"
+    },
+    {
+      "hash": "sha256-dSkBVxWYK88fJwwBsAzkFAKc+fdktKIomu1SNqVl6SM=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/typescript\/tsMode.js.br"
+    },
+    {
+      "hash": "sha256-S0BdFHH5t96psocSkGvE6rlX7en16EIHkj8WCS7xOCA=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/typescript\/tsWorker.js.br"
+    },
+    {
+      "hash": "sha256-Tw4stOa4RNQ8vZFk+Jj5Bbkej\/ApKH\/c1LYG6u1oL84=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/typescript\/tsWorker.min.js.br"
+    },
+    {
+      "hash": "sha256-VrQut0R6W\/tXu\/JVc8B0gFX07Jbsgu1tGeEe89fM2Mc=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/loader.js.br"
+    },
+    {
+      "hash": "sha256-srK1vExC77SzcCBdVrsps85qikRFn44uGturgLWJjHc=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/loader.min.js.br"
+    },
+    {
+      "hash": "sha256-eGSLlnTaQfIaE+euH8RS8hyKtSBxcOSHLg6UjVer1ys=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/nls.messages.de.js.br"
+    },
+    {
+      "hash": "sha256-oxubiHVxjNTi4aPRxzybTPHncIUYwiF\/krscU+GYcZo=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/nls.messages.de.min.js.br"
+    },
+    {
+      "hash": "sha256-9TUxf3D7dBCNZdOEGy7lKIB\/S1FpL+H8drRwbUftKeI=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/nls.messages.es.js.br"
+    },
+    {
+      "hash": "sha256-srgbQP+fgMGb+pHj6ZstXpwYCF5P44gcbUd8KlZQYVg=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/nls.messages.es.min.js.br"
+    },
+    {
+      "hash": "sha256-mFGtCwFEzHrTzSgGUWZQzVzAbjBL5B74sT\/+tTjGqrQ=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/nls.messages.fr.js.br"
+    },
+    {
+      "hash": "sha256-BtIqTHopduEwoAbEPCg3UUU\/ch3GA75ieNh\/U7sndoQ=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/nls.messages.fr.min.js.br"
+    },
+    {
+      "hash": "sha256-GYvwnAb4\/hZ1c1zh1S6lBGKb0F9qbvI4U7zIMFKvKZQ=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/nls.messages.it.js.br"
+    },
+    {
+      "hash": "sha256-c1hECvFm1TNu+SLLpJTvWHSxKgoAxDIAgzuUuUxoCc4=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/nls.messages.it.min.js.br"
+    },
+    {
+      "hash": "sha256-Wvo9NUBvZXMCQ8wUchPdqbmE98XBXMh5UounHMttmiU=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/nls.messages.ja.js.br"
+    },
+    {
+      "hash": "sha256-Ru9E3C86kU96+6pRdYKuvSPCSWyjtQqBviTyFbaJfJQ=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/nls.messages.ja.min.js.br"
+    },
+    {
+      "hash": "sha256-pEQyT8V1wVHDRktCgy9Acon7qZ8G6l\/os5CzoAdK7Aw=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/nls.messages.ko.js.br"
+    },
+    {
+      "hash": "sha256-pkVso9ns8FSw90H4soEiau2mySRIrd\/rUFYxzhoHcrQ=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/nls.messages.ko.min.js.br"
+    },
+    {
+      "hash": "sha256-ac7TzkXK6l+GG+C42eP\/F2Kwv89WhoBM0R5npmyzr64=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/nls.messages.ru.js.br"
+    },
+    {
+      "hash": "sha256-WF39LbQkkrXbXYXY1vjv9kErR4Lochvg0\/dXNw8PVSo=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/nls.messages.ru.min.js.br"
+    },
+    {
+      "hash": "sha256-JqZ3EErsudG70OA\/f4yHNT0T60jrEfGh470\/gpceANk=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/nls.messages.zh-cn.js.br"
+    },
+    {
+      "hash": "sha256-5He\/b1FLiStPF8TWGB9WyuI4C4DY659rO7Vm2pItx9o=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/nls.messages.zh-cn.min.js.br"
+    },
+    {
+      "hash": "sha256-VOnBt5gfqqBCmy1T4348JveoJJJSejtjAPYWLgrxC\/s=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/nls.messages.zh-tw.js.br"
+    },
+    {
+      "hash": "sha256-eO5fBJYSJauCtjdYa1ABz6BKhaAaOCFYWnyJNH8vZ+E=",
+      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/nls.messages.zh-tw.min.js.br"
+    },
+    {
+      "hash": "sha256-kMgD2iEv\/hd2d+tsDIhLY42eu2yoOd6jmWSCkbR2b54=",
+      "url": "_framework\/BlazorMonaco.i33mlyw1st.wasm.br"
+    },
+    {
+      "hash": "sha256-UXZGxLK98SuwY9stZY0ehhxi3I54bUXNzJP+iHj+1Bg=",
+      "url": "_framework\/DevTools.7clvz7c7nz.wasm.br"
+    },
+    {
+      "hash": "sha256-WWUnfI94fqAYHv9jei+JII+a8IXGQNgABkH7vO+DGSM=",
+      "url": "_framework\/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm.br"
+    },
+    {
+      "hash": "sha256-Gz0PubVCY\/8DNJLGnabOhfOwMFsHSXbB\/pFSA7fcBVc=",
+      "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.di87cb8hf5.wasm.br"
+    },
+    {
+      "hash": "sha256-XwOGGrRs4snrNqzaCtLn31+wwNaWe1Hp7symUtpLpLA=",
+      "url": "_framework\/Microsoft.AspNetCore.Components.s68khoiaep.wasm.br"
+    },
+    {
+      "hash": "sha256-Fkx3KD3p2yd9YD2UcFcOfcAYXyMbRPb860x7Bi1tzMI=",
+      "url": "_framework\/Microsoft.CSharp.3cxqlqeayc.wasm.br"
+    },
+    {
+      "hash": "sha256-rZTTwmpaW8od5TVWeCVHQDWsnkbMHykt3LUYg7LFrXI=",
+      "url": "_framework\/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm.br"
+    },
+    {
+      "hash": "sha256-tYkJkGYn9IfYgO01s4JL\/fHoqY6ia\/v6elAaEFsqfkA=",
+      "url": "_framework\/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm.br"
+    },
+    {
+      "hash": "sha256-QC7VREQP2z5pyM76FQoPgeB9MYIQgWirdRNIkg6dOYQ=",
+      "url": "_framework\/Microsoft.Extensions.Configuration.icatoxhjsq.wasm.br"
+    },
+    {
+      "hash": "sha256-cUKFCQlCbqQt2T1wB\/4ntYzRk6jL8dKrY1sUrFDS3q8=",
+      "url": "_framework\/Microsoft.Extensions.DependencyInjection.Abstractions.a1zvfxqjfo.wasm.br"
+    },
+    {
+      "hash": "sha256-Fm+JwWNq42cDbIyE1cqM4G8JjDr6Ilc3If2r6x6X4mM=",
+      "url": "_framework\/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm.br"
+    },
+    {
+      "hash": "sha256-w8dpL5yZrF4OETh2SqETQ1Nta\/xErqxE6yhpD92WGtU=",
+      "url": "_framework\/Microsoft.Extensions.Logging.Abstractions.qrkymho8xv.wasm.br"
+    },
+    {
+      "hash": "sha256-isokUUjsek1NwM8gEiLlvIldduI2PdzkWq8\/NCMKw+E=",
+      "url": "_framework\/Microsoft.Extensions.Logging.e47xhy91y6.wasm.br"
+    },
+    {
+      "hash": "sha256-RPHNZBSiM6BpAgZCisL9A8RnFiYUl2XkWRSCCZeQHz8=",
+      "url": "_framework\/Microsoft.Extensions.Options.dvulh3voq4.wasm.br"
+    },
+    {
+      "hash": "sha256-pLWG6sbALbfBvsdiXZaGEJJNxb\/xt1MCZyKLLRw+mWk=",
+      "url": "_framework\/Microsoft.Extensions.Primitives.9kx4ehp8td.wasm.br"
+    },
+    {
+      "hash": "sha256-qIHnbmeJpnBl6gX2tJcZ+0tUUKs1P1OxhsCi3aIXC2w=",
+      "url": "_framework\/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm.br"
+    },
+    {
+      "hash": "sha256-bSnEeShIDOmbLNAldxCVtiAOoy+LnPubLy+5uqpTa2g=",
+      "url": "_framework\/Microsoft.JSInterop.ceii4uvike.wasm.br"
+    },
+    {
+      "hash": "sha256-3ZpdlhBuJs2BnFftSMYjoDAc2gqx\/VKscAmP+r3C7n0=",
+      "url": "_framework\/NSQLFormatter.Standard.fk4fdnwiyr.wasm.br"
+    },
+    {
+      "hash": "sha256-cM05H4KJUVCNZF0icFd2JlBnVQe6fNq6bB\/Pg3Gye4w=",
+      "url": "_framework\/Newtonsoft.Json.qkbufwhni2.wasm.br"
+    },
+    {
+      "hash": "sha256-Nfm0+yLoOcSyEngV+l0vQh8PUO3rAYWXsxu\/4lVtCyI=",
+      "url": "_framework\/System.8rv0tdtrxz.wasm.br"
+    },
+    {
+      "hash": "sha256-xrVn5qLBAn3MfknxRJGRrrFO2alDcQEFAdh1VOS8EZ8=",
+      "url": "_framework\/System.Collections.8ela8zkwvn.wasm.br"
+    },
+    {
+      "hash": "sha256-7EhoLJE0ZJCW\/iJbbVNesiH9Dki\/bu5wPsr0\/Qcb2vg=",
+      "url": "_framework\/System.Collections.Concurrent.a7fo2fwfo2.wasm.br"
+    },
+    {
+      "hash": "sha256-cCnqxWeUPgccQpKtiZt1bNiSKQakVPNSlF09gnKCceA=",
+      "url": "_framework\/System.Collections.Immutable.e9sygaaebn.wasm.br"
+    },
+    {
+      "hash": "sha256-x\/+FCcau+D8p7QXIAnwTL3Mq0XoOfL6uB5xLUy5BZcw=",
+      "url": "_framework\/System.Collections.NonGeneric.qgxhxr3g9k.wasm.br"
+    },
+    {
+      "hash": "sha256-4Ab4g0sAu7lwR9Gh+I9G38HcchvM+zSAXSkpU1XNJC0=",
+      "url": "_framework\/System.Collections.Specialized.o60wf0qwob.wasm.br"
+    },
+    {
+      "hash": "sha256-eDigwj3AYnKSvS02USuZbQfxAP+9lqFIT6hBSaxOSSY=",
+      "url": "_framework\/System.ComponentModel.Primitives.dof4znztm7.wasm.br"
+    },
+    {
+      "hash": "sha256-Ci8BDiuXCykvYTFJrkbnMxu2mZsf+wvGkXEq+pF8qcg=",
+      "url": "_framework\/System.ComponentModel.TypeConverter.3tptfd05lo.wasm.br"
+    },
+    {
+      "hash": "sha256-HulHqe0FvEaj2DGgwTjFPvLfRA3+Ds8MUDuWqy\/CuKU=",
+      "url": "_framework\/System.ComponentModel.ty8x74ifk3.wasm.br"
+    },
+    {
+      "hash": "sha256-91UwFrOw8Syt5gHegIHnh2T4vE029c7L9F7HyM4Wi84=",
+      "url": "_framework\/System.Console.ipaqc4ly9h.wasm.br"
+    },
+    {
+      "hash": "sha256-6OKtsafoEhb20m8Aq3d3HSYXJW5YuFVKeglnlp09nFw=",
+      "url": "_framework\/System.Data.Common.meu4x66n48.wasm.br"
+    },
+    {
+      "hash": "sha256-avLCaMR4YsLofpkSwJoSEn+YZsAilDq2WmUBg9U54Ow=",
+      "url": "_framework\/System.Diagnostics.DiagnosticSource.0ouyxo2hmc.wasm.br"
+    },
+    {
+      "hash": "sha256-vev66\/SHzvGXMyfAmPYdZvqzDfPiVUGnLz33qGMFuDs=",
+      "url": "_framework\/System.Diagnostics.TraceSource.ydx494s3qq.wasm.br"
+    },
+    {
+      "hash": "sha256-Y4r1dR72qWxq0VBTkyX1Y5T7JRtLYtiqDSoF\/vOPHqY=",
+      "url": "_framework\/System.Drawing.Primitives.60ppmnygmi.wasm.br"
+    },
+    {
+      "hash": "sha256-QMSxd8H+ATQ+dZvGHn1c46uDuSLM1RW0fVmUYAtVqsI=",
+      "url": "_framework\/System.Drawing.wgem9d1jb2.wasm.br"
+    },
+    {
+      "hash": "sha256-jHqSN+Xom7pYP0By1FLYC7kT+XnaBs0dKQD8fYCLke4=",
+      "url": "_framework\/System.IO.Pipelines.wn1erg3up3.wasm.br"
+    },
+    {
+      "hash": "sha256-9K16BQqs4ecn9T\/h6Iq+chHjyT\/oEqpyRtLTwbvMwnw=",
+      "url": "_framework\/System.Linq.Expressions.v0ag6cia2l.wasm.br"
+    },
+    {
+      "hash": "sha256-wZQ0EnxwiWNTqB5hiCIFLum5ztzCwCEbMnP7WHqTFsI=",
+      "url": "_framework\/System.Linq.e9ld198aq3.wasm.br"
+    },
+    {
+      "hash": "sha256-BQwPxmAbXjsxKcxTEDML8BvQrxL2TmmwDbdxjoiTiGk=",
+      "url": "_framework\/System.Memory.y5rjb3vii6.wasm.br"
+    },
+    {
+      "hash": "sha256-JLKHjN2K9WPaYm3Rn32bzreRFwAjiVevutYS6B\/FnA8=",
+      "url": "_framework\/System.Net.Http.40bt2row14.wasm.br"
+    },
+    {
+      "hash": "sha256-7aaB\/Nzfdc9MVq6dyoBjXorA8x1+n0soS2uknnJyzHA=",
+      "url": "_framework\/System.Net.Primitives.e24bsgwgy3.wasm.br"
+    },
+    {
+      "hash": "sha256-oR6GWxbSJ7U7839jCtS290lA38mdFvzNmV5Hm5NFu+0=",
+      "url": "_framework\/System.ObjectModel.zdynnv896m.wasm.br"
+    },
+    {
+      "hash": "sha256-RsLUaXEPEFjfHCbF3i0eLlM5074sTTHKFK1addnmnvw=",
+      "url": "_framework\/System.Private.CoreLib.jogawqraq5.wasm.br"
+    },
+    {
+      "hash": "sha256-viK4kVuZzttc3Or6eKan3Wzupoqi9cJMWmTMpoBStec=",
+      "url": "_framework\/System.Private.Uri.0gf0lphuvx.wasm.br"
+    },
+    {
+      "hash": "sha256-wym3z2K30MVk4jWhIXK10t35W5p94sypSqQmAv9wEbI=",
+      "url": "_framework\/System.Private.Xml.Linq.0y5cb1e798.wasm.br"
+    },
+    {
+      "hash": "sha256-Il4diCRyGVLyPcgtldSSZV73kxJ430wxOYr0DX7QQco=",
+      "url": "_framework\/System.Private.Xml.otzakxycvw.wasm.br"
+    },
+    {
+      "hash": "sha256-unvvUfCKCLuGXje242qx\/Aa3eME02\/DWUw4u8tE1H8Q=",
+      "url": "_framework\/System.Reflection.Emit.ILGeneration.81uomoqhr0.wasm.br"
+    },
+    {
+      "hash": "sha256-fCuk1SObBjwBH3bNoUc7QuGI5Wlqk8ORCsCHmQ\/qAJg=",
+      "url": "_framework\/System.Reflection.Emit.Lightweight.83sei7lwgb.wasm.br"
+    },
+    {
+      "hash": "sha256-1OrStgbrhYrToYLLBwzYxDUUTiFmXtJ+1jWejpDymWA=",
+      "url": "_framework\/System.Reflection.Primitives.kvhyhemwil.wasm.br"
+    },
+    {
+      "hash": "sha256-9OwD+ZA8ppxUrHIe0xSCHCdif0MEGYfcE8tVFUIrFl8=",
+      "url": "_framework\/System.Runtime.InteropServices.JavaScript.it9v611w20.wasm.br"
+    },
+    {
+      "hash": "sha256-u6fUI1awrJeKsN9W92Skkz2W0ssgk9Zau6v4GL9GVHw=",
+      "url": "_framework\/System.Runtime.InteropServices.qpr883temn.wasm.br"
+    },
+    {
+      "hash": "sha256-Kue\/8oVF6AQ2qTab\/QvIhJHgLJLP2d6+\/ZK2rIi1vXM=",
+      "url": "_framework\/System.Runtime.Numerics.27r0osoeod.wasm.br"
+    },
+    {
+      "hash": "sha256-yV9Z7VmDWp7I9jORFA6I0QUY2Ra+q\/zlz7cxl7tio3A=",
+      "url": "_framework\/System.Runtime.Serialization.Formatters.drjzdg67ki.wasm.br"
+    },
+    {
+      "hash": "sha256-uRtywZl23\/qNIK0SgP2qD2zfdbrpmdSBWeK9VC7\/w3o=",
+      "url": "_framework\/System.Runtime.Serialization.Primitives.nh506uwomz.wasm.br"
+    },
+    {
+      "hash": "sha256-ikkt\/lCshwVPkBybeoPeCoKxGGuG4C+IiSGRTcvzI2M=",
+      "url": "_framework\/System.Runtime.pvbaqupzrm.wasm.br"
+    },
+    {
+      "hash": "sha256-8pOiFpnHLfD83UMaociRr6v8O7x81FamIJLj\/egx49w=",
+      "url": "_framework\/System.Security.Cryptography.3hl3rqf787.wasm.br"
+    },
+    {
+      "hash": "sha256-NpuG563ce9fRUuYmRjA20uluoLzdFufvhseqXhWnsAo=",
+      "url": "_framework\/System.Text.Encoding.Extensions.75uivmr71p.wasm.br"
+    },
+    {
+      "hash": "sha256-kDaLTh9\/99oHf4EuOfy2widCoslEN4nZAjvS7dh3SXY=",
+      "url": "_framework\/System.Text.Encodings.Web.hq94nfnuw2.wasm.br"
+    },
+    {
+      "hash": "sha256-Q+HAq2lFAqldvVb\/FzR2Sq37ywRcAJ+F1UkCtzTBuv4=",
+      "url": "_framework\/System.Text.Json.xmy9dlnptx.wasm.br"
+    },
+    {
+      "hash": "sha256-tbkDc4ZIjgs19IBz+tU3t4AHP2mRQ8\/hV2qNMF3rmZA=",
+      "url": "_framework\/System.Text.RegularExpressions.rr6ypy13yv.wasm.br"
+    },
+    {
+      "hash": "sha256-OtC8J+M3hiIAWAmOmDerrA3zM6hey1mL+SOdclnjQIM=",
+      "url": "_framework\/System.Threading.k290n83y9v.wasm.br"
+    },
+    {
+      "hash": "sha256-kwJlqC41qvKo0tp0IgA2d0ZacDuWAZQMrPlpgT\/a7Hk=",
+      "url": "_framework\/System.Xml.Linq.fnt4rzi185.wasm.br"
+    },
+    {
+      "hash": "sha256-hTqSL74\/JzKCjE669pIaPniBuq6gWvJZ5WsR1bRfors=",
+      "url": "_framework\/System.Xml.ReaderWriter.1otkvd7d8u.wasm.br"
+    },
+    {
+      "hash": "sha256-OcSkyenEBCuh\/\/BKvOw\/wPTf\/FGxr+j+OZXELc2fosg=",
+      "url": "_framework\/System.Xml.XDocument.ocxzop4g63.wasm.br"
+    },
+    {
+      "hash": "sha256-sJqkVeOJ2FazO0qQU652rXdrriI5EJWrh2QLrJFxL78=",
+      "url": "_framework\/blazor.boot.json.br"
+    },
+    {
+      "hash": "sha256-+vIfWRbrna1rF+s8xknbrluJxgPx4vfKB0WJ74HdICo=",
+      "url": "_framework\/blazor.webassembly.js"
+    },
+    {
+      "hash": "sha256-N+\/jRbIsqVbSKyrJpXTfko\/MbGFn4mYhGgK+pW+zQ7o=",
+      "url": "_framework\/dotnet.js"
+    },
+    {
+      "hash": "sha256-DETN0apOVMq\/go7mufiijgxiUeydurCfJYYS\/DnwltY=",
+      "url": "_framework\/dotnet.native.0s5gjpogh3.wasm.br"
+    },
+    {
+      "hash": "sha256-XoX4c2LUiS5cCJhRPgapPU1Oc3ZmYKx6SEFmJ0SMjGY=",
+      "url": "_framework\/dotnet.native.qdj5gxypz1.js"
+    },
+    {
+      "hash": "sha256-yfXUv1l\/B489E8p12JxUvxly0JvHL9CCsoZUDlfGH9c=",
+      "url": "_framework\/dotnet.runtime.drv0pr9n5o.js"
+    },
+    {
+      "hash": "sha256-qPzRJ7vpZXzgfn\/zRN4sE1DCkIMOhv0uhpIe\/6UMYj4=",
+      "url": "_framework\/icudt_CJK.tjcz0u77k5.dat.br"
+    },
+    {
+      "hash": "sha256-8C0k+ite5nej4L1bjieJp6Wsf9DY82n6f85vCedJK\/Y=",
+      "url": "_framework\/icudt_EFIGS.tptq2av103.dat.br"
+    },
+    {
+      "hash": "sha256-fv9mQqIBur\/JQyexfKrVYjdpw7zdaW4zV4qxIkzgxlI=",
+      "url": "_framework\/icudt_no_CJK.lfu7j35m59.dat.br"
+    },
+    {
+      "hash": "sha256-TOCVUf0\/mwVQQms\/Amnjedz2fkhP5zgR2WOOpr4OhQM=",
+      "url": "css\/app.css.br"
     },
     {
       "hash": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
@@ -61,1281 +1169,29 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-QfuFjq2hnW+Opm+RxaEXoV5Vhofo\/5dUrKu9qMBzB\/s=",
+      "hash": "sha256-kYGDT8\/rpfEAHuPrcvaYUC4f\/42n3atMecyK6jWpK28=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-VOd0jE5WWzqpQjq4miUjONKHQxWt7cbBKJe0vNIMHnc=",
-      "url": "manifest.json"
+      "hash": "sha256-zvvfmBWoYigFalmfbSGeeFGZgKHR4D7W5QPUqswqWwg=",
+      "url": "js\/copy-functionality.js.br"
     },
     {
-      "hash": "sha256-lOCs45frNf+D7me6lKLgUhRCdt4VwHCp9H6Ct+YWzfs=",
-      "url": "_framework\/blazor.webassembly.js"
+      "hash": "sha256-QDE9akhk5WgGwvAp+xrehrPsTcTjAg0kkSy0blIrM84=",
+      "url": "manifest.json.br"
     },
     {
-      "hash": "sha256-LAb4eLwdg0dM5hzFcF3qDo2rVOfe4EZsbBiHBt3Ua\/M=",
-      "url": "_framework\/dotnet.timezones.blat.br"
+      "hash": "sha256-Eshv5sqZhNmK3UpAiYXkBjTm+fTQKRt1eDSIpvYYHNU=",
+      "url": "tailwindcss.3.4.16.js.br"
     },
     {
-      "hash": "sha256-qPzRJ7vpZXzgfn\/zRN4sE1DCkIMOhv0uhpIe\/6UMYj4=",
-      "url": "_framework\/icudt_CJK.dat.br"
-    },
-    {
-      "hash": "sha256-8C0k+ite5nej4L1bjieJp6Wsf9DY82n6f85vCedJK\/Y=",
-      "url": "_framework\/icudt_EFIGS.dat.br"
-    },
-    {
-      "hash": "sha256-fv9mQqIBur\/JQyexfKrVYjdpw7zdaW4zV4qxIkzgxlI=",
-      "url": "_framework\/icudt_no_CJK.dat.br"
-    },
-    {
-      "hash": "sha256-5awfAGKwhkd0ptERWsPKoLRSMskV79GnIeAd3viufys=",
-      "url": "_framework\/icudt.dat.br"
-    },
-    {
-      "hash": "sha256-sACwrWvlNPzYqc7totHWLLlXZ2+bepOUgLjdlZM72Rk=",
-      "url": "_framework\/blazor.boot.json.br"
-    },
-    {
-      "hash": "sha256-mLLE1E6oTNL1MO+e6iWEk8JZGR01rB2zPSkDQmaGdRs=",
-      "url": "_framework\/BlazorMonaco.dll.br"
-    },
-    {
-      "hash": "sha256-VOvx0oNnNX66ciXz8fn2ojPq7v0Hujjb8EuADlDAQpw=",
-      "url": "_framework\/DevTools.dll.br"
-    },
-    {
-      "hash": "sha256-SjUKxjWa5jqjmAGrcRKBkJdrxz+fbbbBhr43WTPgDpk=",
-      "url": "_framework\/Microsoft.AspNetCore.Components.dll.br"
-    },
-    {
-      "hash": "sha256-f+nk9ajfoI6kTGPb1TDmUiHrFPVKgV77g0YFpO6xng8=",
-      "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll.br"
-    },
-    {
-      "hash": "sha256-mdkapG98bg9qQIuKi2vR5TkUDhD4QDto5N+Cd+\/cfu8=",
-      "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.dll.br"
-    },
-    {
-      "hash": "sha256-I855YhJDGL8Oln+fZ2qXTKYmWPzmF9TKrfoFVUftrdk=",
-      "url": "_framework\/Microsoft.CSharp.dll.br"
-    },
-    {
-      "hash": "sha256-O62cew1U2HKKkYda1fFZJnVT9aPEeVrQNAI2pNvYdCA=",
-      "url": "_framework\/Microsoft.Extensions.Configuration.Abstractions.dll.br"
-    },
-    {
-      "hash": "sha256-CizWhiyqhmUK45RleCJcUO4GlLbIVbXPXneyCGNPxU0=",
-      "url": "_framework\/Microsoft.Extensions.Configuration.dll.br"
-    },
-    {
-      "hash": "sha256-dxBcKCIMzhOzKYJe+iUrgJJkSdZ9l6Kg\/fNOrFaftV0=",
-      "url": "_framework\/Microsoft.Extensions.Configuration.Json.dll.br"
-    },
-    {
-      "hash": "sha256-albRzqM7VMyOerNP2OH96AY8d62pVUIRgyqzIlm7CTo=",
-      "url": "_framework\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br"
-    },
-    {
-      "hash": "sha256-7uVJse\/BFIPT5qJgVG+1OWQGEn59KlIz19jtui290ZY=",
-      "url": "_framework\/Microsoft.Extensions.DependencyInjection.dll.br"
-    },
-    {
-      "hash": "sha256-WhTwnPhm3ZPtND0+\/Ve3CxXN6rnKFMR3dr7sPBuyGXg=",
-      "url": "_framework\/Microsoft.Extensions.Logging.Abstractions.dll.br"
-    },
-    {
-      "hash": "sha256-HaG+ia4biZiIWs1pMFuvu3fOmrVf+zKSAWjeL\/1ATnE=",
-      "url": "_framework\/Microsoft.Extensions.Logging.dll.br"
-    },
-    {
-      "hash": "sha256-19bdzazb9OUn0BJ4q7XhDbu2\/aa+Vr2+ljxwd36xt5U=",
-      "url": "_framework\/Microsoft.Extensions.Options.dll.br"
-    },
-    {
-      "hash": "sha256-r05KXD5X8SvcgYKyDH\/Camn9FpaHh\/8gZtReo00tKLw=",
-      "url": "_framework\/Microsoft.Extensions.Primitives.dll.br"
-    },
-    {
-      "hash": "sha256-aOM4hPcd\/Wx4mzsRi+jPb55us5jdmbATWs2otuVwUxw=",
-      "url": "_framework\/Microsoft.JSInterop.dll.br"
-    },
-    {
-      "hash": "sha256-8HKW06T0t3nWWzNRK3FHcLnaaJoPHaQWN4Xa4afjVfg=",
-      "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll.br"
-    },
-    {
-      "hash": "sha256-1SkisrEmY3uPJpQxXaPby3aXu8YLVNXGc67cxu27kBc=",
-      "url": "_framework\/Newtonsoft.Json.dll.br"
-    },
-    {
-      "hash": "sha256-EpKaOeeb3SKnOAaG+6y3XarqMBkZHzS8YU0g+Nae28c=",
-      "url": "_framework\/NSQLFormatter.Standard.dll.br"
-    },
-    {
-      "hash": "sha256-SFuyfICijURGQrlEHNd9vb\/mHEaSS0NBTgzORRMaCQw=",
-      "url": "_framework\/System.Collections.Concurrent.dll.br"
-    },
-    {
-      "hash": "sha256-VdyhqqO4nYS34oERnsNwAvYWTOFBLdIXrFEbHhuEe5A=",
-      "url": "_framework\/System.Collections.dll.br"
-    },
-    {
-      "hash": "sha256-3FNLgqSkv+pVamuijXAIc5aQDDOuLcqZm7ZlCcCZZEo=",
-      "url": "_framework\/System.Collections.NonGeneric.dll.br"
-    },
-    {
-      "hash": "sha256-F4iB1ENq5kEFozjHppDsU34qsmmqCdD6uI2UwFFiXVE=",
-      "url": "_framework\/System.Collections.Specialized.dll.br"
-    },
-    {
-      "hash": "sha256-MhpbfxkdUUgap6JaO4EfBKp6aIhFY\/8FRIMytaroVLY=",
-      "url": "_framework\/System.ComponentModel.dll.br"
-    },
-    {
-      "hash": "sha256-rJ57sgXOzjgEIKUgsE\/qOLJs0GxakIJcV8QXcxPkCmA=",
-      "url": "_framework\/System.ComponentModel.Primitives.dll.br"
-    },
-    {
-      "hash": "sha256-8+5DTk5ng8PD2275qim4pUM1EUH51pM4ZzOQhj2bvWI=",
-      "url": "_framework\/System.ComponentModel.TypeConverter.dll.br"
-    },
-    {
-      "hash": "sha256-KANYsDW6Hw8Aj55YfCxbM7li6M5J1qX3iWw9jHZloT0=",
-      "url": "_framework\/System.Console.dll.br"
-    },
-    {
-      "hash": "sha256-p0SF3pTxqmgyTMjvxKmAoGzU9gAUMv9l16xkhYw9tnY=",
-      "url": "_framework\/System.Data.Common.dll.br"
-    },
-    {
-      "hash": "sha256-aQ3PTmfEjpYAteRLc\/nZvDZBAxlqPqOriYOAugortKU=",
-      "url": "_framework\/System.Diagnostics.TraceSource.dll.br"
-    },
-    {
-      "hash": "sha256-v\/4W3CtZzBZSsBovhWhq+qcY\/Y5uWkkhE+lZ6HNkZls=",
-      "url": "_framework\/System.dll.br"
-    },
-    {
-      "hash": "sha256-cweq0csL2AqSS3\/ZbZTDyfCQ0rgFqaXkvBkWafmO6ic=",
-      "url": "_framework\/System.Drawing.dll.br"
-    },
-    {
-      "hash": "sha256-Igcg7D37M4EmmeUidkO47esP4wZS2cQi\/MGBJweDmI4=",
-      "url": "_framework\/System.Drawing.Primitives.dll.br"
-    },
-    {
-      "hash": "sha256-mhuVK9dVHm7iWZPqU5ryjLGp7GBLBL2sq7vqT\/kAgYk=",
-      "url": "_framework\/System.Linq.dll.br"
-    },
-    {
-      "hash": "sha256-YJGppm8AL7k28U0XptufZst4sVLSKntEZuah1Yd+e+U=",
-      "url": "_framework\/System.Linq.Expressions.dll.br"
-    },
-    {
-      "hash": "sha256-Jg+jbcuKLJ7D5hIkz1cIviTnWre9nzCoPuYv+ef4n1Q=",
-      "url": "_framework\/System.Memory.dll.br"
-    },
-    {
-      "hash": "sha256-2SxZoSdDjoPMY+cZsYS7mP7jxhKvhZvekCoCOGyESvs=",
-      "url": "_framework\/System.Net.Http.dll.br"
-    },
-    {
-      "hash": "sha256-koT6hueuuKqBhMvb2zO2fasM\/A0YAf7DvszqXJ5cLAM=",
-      "url": "_framework\/System.Net.Primitives.dll.br"
-    },
-    {
-      "hash": "sha256-zteePzRwyANI\/2EBeupBpyydSjg+52AYYWHNJoApLaM=",
-      "url": "_framework\/System.ObjectModel.dll.br"
-    },
-    {
-      "hash": "sha256-B70QatsmeR27H9iLn7ClPW5VHWSSHYeX7hHkHP58cJI=",
-      "url": "_framework\/System.Private.CoreLib.dll.br"
-    },
-    {
-      "hash": "sha256-DFeycepquXIfkTI9+PyojHuxtwtNqL4EVLYctvx7naY=",
-      "url": "_framework\/System.Private.Uri.dll.br"
-    },
-    {
-      "hash": "sha256-YE2aOv9Rj2kETILE956bOzrlXrQgRbXHhMYj1vEfiWY=",
-      "url": "_framework\/System.Private.Xml.dll.br"
-    },
-    {
-      "hash": "sha256-xGUYJYJCBp3od7cBYy5bmPubZ1S7WiNF9PsIYVGBITY=",
-      "url": "_framework\/System.Private.Xml.Linq.dll.br"
-    },
-    {
-      "hash": "sha256-h9S9DRXamQ549XJZM2O1pVGUH7ex9LnCutMtiqTlA\/8=",
-      "url": "_framework\/System.Reflection.Emit.ILGeneration.dll.br"
-    },
-    {
-      "hash": "sha256-5e7tetcaAEDuJ1oHqEZPCSKw34vv9y\/99ANSKXDwhG0=",
-      "url": "_framework\/System.Reflection.Emit.Lightweight.dll.br"
-    },
-    {
-      "hash": "sha256-UreTLO+lUn6hEy7DDq9spJPo7n4KsupFDnnXkO3NLI4=",
-      "url": "_framework\/System.Reflection.Primitives.dll.br"
-    },
-    {
-      "hash": "sha256-Q3x9wnlHpXs1xXHUFMrHhvsEA9kSdbsdU+6DPTi+zKA=",
-      "url": "_framework\/System.Runtime.dll.br"
-    },
-    {
-      "hash": "sha256-VDFz1+57erHzfmZcLDHQ4fcTz6ZZPhROyAXoDn3N5FQ=",
-      "url": "_framework\/System.Runtime.InteropServices.dll.br"
-    },
-    {
-      "hash": "sha256-b0F5tdQChdaNVbpxMgRvxAI4fWAblmZ+yWYVDtutX+M=",
-      "url": "_framework\/System.Runtime.InteropServices.JavaScript.dll.br"
-    },
-    {
-      "hash": "sha256-Q+z9OjpY9oSRAlTTIMQscEaKvYPR7qk76nn5rcKMsuc=",
-      "url": "_framework\/System.Runtime.Numerics.dll.br"
-    },
-    {
-      "hash": "sha256-aqYqtJLpvdLCF8It5mCrbAv+4OYSZazSOElRZ3CzMMY=",
-      "url": "_framework\/System.Runtime.Serialization.Formatters.dll.br"
-    },
-    {
-      "hash": "sha256-+opN+oaa+87wayGlJT\/+DMXae7yHfljxuKYVNwjtuaE=",
-      "url": "_framework\/System.Runtime.Serialization.Primitives.dll.br"
-    },
-    {
-      "hash": "sha256-AZkAcUO\/1rox78YES3NbWZvEg2kzBfH07R0YR8GHwPk=",
-      "url": "_framework\/System.Security.Cryptography.dll.br"
-    },
-    {
-      "hash": "sha256-4T7GwSIqKvCn6NN846ey\/6qKUTxm7fGC\/Ukd5l8BZ70=",
-      "url": "_framework\/System.Text.Encoding.Extensions.dll.br"
-    },
-    {
-      "hash": "sha256-GJ6b4sChS6TCqpeo3Db4cGYNH4BJRNMyzpv6tarqToM=",
-      "url": "_framework\/System.Text.Encodings.Web.dll.br"
-    },
-    {
-      "hash": "sha256-4MfgY0uoD0dalvesrgWv9Mth6MQyQ6FBjnzLC3gHJSg=",
-      "url": "_framework\/System.Text.Json.dll.br"
-    },
-    {
-      "hash": "sha256-kSLY888NW5dOaLPmYhZoH7pv+mJ79AHYnI1AayVIVjY=",
-      "url": "_framework\/System.Text.RegularExpressions.dll.br"
-    },
-    {
-      "hash": "sha256-sSg\/qxyFVGPv1qdEBcvSaAn\/qAASLi8lmw6yzNWzO44=",
-      "url": "_framework\/System.Threading.dll.br"
-    },
-    {
-      "hash": "sha256-V9Eq9i16ODEzwmBxs9upn926Bd4EZdN59b1+\/i8Culw=",
-      "url": "_framework\/System.Xml.Linq.dll.br"
-    },
-    {
-      "hash": "sha256-VPqsX0gMYLV7tkqULVueRyNEJEpSlxK9LqDqm2Ja6FY=",
-      "url": "_framework\/System.Xml.ReaderWriter.dll.br"
-    },
-    {
-      "hash": "sha256-Y5z1XPUsYbtE9MKxyli+Y3qGCzbYzfRlVAFI2bWlayQ=",
-      "url": "_framework\/System.Xml.XDocument.dll.br"
-    },
-    {
-      "hash": "sha256-1pzMkFbcVHcmmKwf75Zp4F4xEnRGyOgbK9edG0urZaA=",
-      "url": "_framework\/dotnet.7.0.16.s2czobwnxa.js"
-    },
-    {
-      "hash": "sha256-X6MgXAw2BiGgg4LE4gYTZygWa\/3y\/IgnBJ6dJaMI15Y=",
-      "url": "_framework\/dotnet.wasm.br"
-    },
-    {
-      "hash": "sha256-fsD4WThZM3Xb5CeoPjVkXwi0yri+uuUSkphAYalTUVU=",
-      "url": "DevTools.styles.css"
-    },
-    {
-      "hash": "sha256-SVNmaJbtTAks5+B2mdJQzqAwtc3CvOIplzhG40Omiss=",
-      "url": "_content\/BlazorMonaco\/jsInterop.js"
-    },
-    {
-      "hash": "sha256-3aDNEleFzytxXWrOHh3vselUWztY2saUzD0B8tith6A=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/base\/common\/worker\/simpleWorker.nls.de.js.map"
-    },
-    {
-      "hash": "sha256-SMCXK+9mEawX50FCfsgkMcvZy+4q6qpQSC4kBWkw4qo=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/base\/common\/worker\/simpleWorker.nls.es.js.map"
-    },
-    {
-      "hash": "sha256-iZAn1iodH\/fdRW97WKR51Qfqr2oyyP0CuKoQyYlQWR8=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/base\/common\/worker\/simpleWorker.nls.fr.js.map"
-    },
-    {
-      "hash": "sha256-eKc747QdkiNyDGMOjmg0mJyXTOS74DQHImIQjOizAv4=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/base\/common\/worker\/simpleWorker.nls.it.js.map"
-    },
-    {
-      "hash": "sha256-tMoBjjNkQC2SH24jypgxHcDgYDHVUt+ersW7RW9iV7k=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/base\/common\/worker\/simpleWorker.nls.ja.js.map"
-    },
-    {
-      "hash": "sha256-1UrRUbMhL3W4fRnes7v4d6gCSbygnXltZsZWTC2gYS8=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/base\/common\/worker\/simpleWorker.nls.js.map"
-    },
-    {
-      "hash": "sha256-dgL3sz+Ck0IBTIg+mjTs2EK1Tt81H5hRkoiZg5BM3KY=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/base\/common\/worker\/simpleWorker.nls.ko.js.map"
-    },
-    {
-      "hash": "sha256-IK9odqb4l7F1t6sY\/rdBtV\/VyXll3kp5CKGGkW\/eNGg=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/base\/common\/worker\/simpleWorker.nls.ru.js.map"
-    },
-    {
-      "hash": "sha256-asdSx7Cintak6XdJq2yXXoYmG0Jci+tn2TlUbEQftdI=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/base\/common\/worker\/simpleWorker.nls.zh-cn.js.map"
-    },
-    {
-      "hash": "sha256-7rxYXTgm8C9unQqI+5jNodaE32YJeoJMAVuxmGHc4Zg=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/base\/common\/worker\/simpleWorker.nls.zh-tw.js.map"
-    },
-    {
-      "hash": "sha256-7IaTyq6rpEFyn1Yf6fpkm1iGUSOnIHbxNWyoK7QKdPo=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/base\/worker\/workerMain.js.map"
-    },
-    {
-      "hash": "sha256-X2jqbzegjrQE6X7fiB4h4NwnYTg\/Iy1ScdwarDJJkbQ=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/editor\/editor.main.js.map"
-    },
-    {
-      "hash": "sha256-zxoZGkcywl3ZtBqVtRZinOKvg23iE0TR8NM3GXtTaJM=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/editor\/editor.main.nls.de.js.map"
-    },
-    {
-      "hash": "sha256-+HNbkjzomd8VaEfCpia5d9S8YwpWse83S324JIRxsg4=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/editor\/editor.main.nls.es.js.map"
-    },
-    {
-      "hash": "sha256-KVk9CLk3KA5md8EADvULOS6aVNB05JlEnH5rCS34ZwI=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/editor\/editor.main.nls.fr.js.map"
-    },
-    {
-      "hash": "sha256-rXl5hMtafHfbp9ABVP7pcY5Ne0C7SRlQMoAhJY0WPww=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/editor\/editor.main.nls.it.js.map"
-    },
-    {
-      "hash": "sha256-xlN\/USJrOl\/\/WQ1XV7UuThub7VFnCGUEQfNueuPYPxA=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/editor\/editor.main.nls.ja.js.map"
-    },
-    {
-      "hash": "sha256-yPUoqcRcqdADYUTR21BGzCPcYWc4NCx6boyNhtYZ7Bc=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/editor\/editor.main.nls.js.map"
-    },
-    {
-      "hash": "sha256-HocfxT9taqpVGZACMO0bMDq5W2uaxBJbGYq3LOJEB0U=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/editor\/editor.main.nls.ko.js.map"
-    },
-    {
-      "hash": "sha256-wVl+u\/zZGRfo8\/zFhXzm+wECGmAC9renu+dADIayG4Q=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/editor\/editor.main.nls.ru.js.map"
-    },
-    {
-      "hash": "sha256-0Jw0nLQ9o\/tSqpz0D3C8Zyso50KnicdmVOzjdVb3z3g=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/editor\/editor.main.nls.zh-cn.js.map"
-    },
-    {
-      "hash": "sha256-b4wOtxB8uMyLgi8ZqIu2q+S2w0PYAhdUqs8fx4EYTQM=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/editor\/editor.main.nls.zh-tw.js.map"
-    },
-    {
-      "hash": "sha256-487ThaNtPxSSnqsM7CKA9Ag\/Yza\/6TuysIiK3GqnLTo=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min-maps\/vs\/loader.js.map"
-    },
-    {
-      "hash": "sha256-cczL8V9UenOS9fLgrgxC1bZMspumkOs0azyyql5KGec=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/browser\/ui\/codicons\/codicon\/codicon.ttf"
-    },
-    {
-      "hash": "sha256-ILwranacLtM3JPQyjIlpfg7UFnPc+D83UkX1xEl+y30=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/common\/worker\/simpleWorker.nls.de.js"
-    },
-    {
-      "hash": "sha256-7ol91yYq9DX5+49Nv0KV\/e5Hn3S4RdFD0u6p0l5dYR0=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/common\/worker\/simpleWorker.nls.de.min.js"
-    },
-    {
-      "hash": "sha256-XwU8YdCDYff6VYkhOKpOMgThnYGtSzTgwpfXPpRsNWo=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/common\/worker\/simpleWorker.nls.es.js"
-    },
-    {
-      "hash": "sha256-X1e8gwFExYPLmyLRhjeBMHZPvCWGxSKGGgb3qTVc39E=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/common\/worker\/simpleWorker.nls.es.min.js"
-    },
-    {
-      "hash": "sha256-9YcvwGO0H4kmoHKqGVnrlAmxgyDbWkWGYxMajBSEDpE=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/common\/worker\/simpleWorker.nls.fr.js"
-    },
-    {
-      "hash": "sha256-x9B0nVtbxfQbDIKmN8+KT5NhGmuJNPH+U\/fKrwHyrqQ=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/common\/worker\/simpleWorker.nls.fr.min.js"
-    },
-    {
-      "hash": "sha256-TFI9yf\/ki4cLr6Zxo1BUkm21OXgStEdgg5J1gICSkTo=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/common\/worker\/simpleWorker.nls.it.js"
-    },
-    {
-      "hash": "sha256-oy5MGOSNfWUZCDHegJ1Zq+3IBtjUlcyzg3bAt0NPcB4=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/common\/worker\/simpleWorker.nls.it.min.js"
-    },
-    {
-      "hash": "sha256-9sPZy5POZFJXvLauhFHv8IoBZUR59yOG17KJxtOFuRY=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/common\/worker\/simpleWorker.nls.ja.js"
-    },
-    {
-      "hash": "sha256-JlwcfpV6Yslo0jkYt9SSk69IkN99Uize8quHWx1ggVI=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/common\/worker\/simpleWorker.nls.ja.min.js"
-    },
-    {
-      "hash": "sha256-vg+xRC6RgBzIMpDNDDDi\/ee1hQq570BcdWb21VrXYV8=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/common\/worker\/simpleWorker.nls.js"
-    },
-    {
-      "hash": "sha256-6IYxs0GR54\/r\/wyQBMxaXb1xVKWRhkC5B5mJj2SUL8I=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/common\/worker\/simpleWorker.nls.ko.js"
-    },
-    {
-      "hash": "sha256-Jd4hK1B5PtDPeVgMASbkKdOLR0GJ9GcKRT0iYw7NT0A=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/common\/worker\/simpleWorker.nls.ko.min.js"
-    },
-    {
-      "hash": "sha256-LWsBFE\/N1o2YlL+nblHqrVqMSq9lR2n2pYx9JbEE+eU=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/common\/worker\/simpleWorker.nls.min.js"
-    },
-    {
-      "hash": "sha256-sQjCG2zzMz5Kk7VSKjzZMzJnKbRHTFwfirHtc9tdclQ=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/common\/worker\/simpleWorker.nls.ru.js"
-    },
-    {
-      "hash": "sha256-oBqcw5wRXON5g36RJ3wKOtrN1OPtiLCz+UPhxV4Hy50=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/common\/worker\/simpleWorker.nls.ru.min.js"
-    },
-    {
-      "hash": "sha256-r7P0yJ4Ul5Vvn7Qx9KQkmoJ68TcPjMST+ZtS210eoSE=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/common\/worker\/simpleWorker.nls.zh-cn.js"
-    },
-    {
-      "hash": "sha256-YIUvwuvz+4k08SICoJHtEym5Z\/OArViwl1jY2Iyq6bw=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/common\/worker\/simpleWorker.nls.zh-cn.min.js"
-    },
-    {
-      "hash": "sha256-7q7YmVscvue6z59LWp7v1\/xJNHXnSARoTPeT5xU2JDo=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/common\/worker\/simpleWorker.nls.zh-tw.js"
-    },
-    {
-      "hash": "sha256-BZbMM93\/eQx5JfoWcvjDZJU9AcbNmWpjrahQpB8kDAg=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/common\/worker\/simpleWorker.nls.zh-tw.min.js"
-    },
-    {
-      "hash": "sha256-oEEKGyJ1vY54FjXg0sEFfFfkpII5MkWPSeCUNAgV4TM=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/worker\/workerMain.js"
-    },
-    {
-      "hash": "sha256-a1Zg1LkkZLFqmiH7tPVDKWLGp8E\/+4DjtO00ckLjcD4=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/base\/worker\/workerMain.min.js"
-    },
-    {
-      "hash": "sha256-bhnEwm5eJOlPMsE3fod7k88CkK69dC1a4f1m1odFcnA=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/abap\/abap.js"
-    },
-    {
-      "hash": "sha256-Og\/+yjMKXeHBM+kJbAPPAcHprvtlBPOfMb7xy3J6QCo=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/abap\/abap.min.js"
-    },
-    {
-      "hash": "sha256-RvcGetaM5xEg96BwH4R6qIu08331yd8aFBtmeSdpaOQ=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/apex\/apex.js"
-    },
-    {
-      "hash": "sha256-2wx6qCmUs0giPyfcdXfM+QLgH7JaFS72UrrJfGXh+vM=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/apex\/apex.min.js"
-    },
-    {
-      "hash": "sha256-mDwY8CyAbznRKRlJOJhw3yAcm8eU9F2hZ4kUA66Ek3g=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/azcli\/azcli.js"
-    },
-    {
-      "hash": "sha256-W+pRjHvdUtrpuMhnoKY78J1hddFZVx7SoLfPMpCVZLU=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/azcli\/azcli.min.js"
-    },
-    {
-      "hash": "sha256-soLrimUpY30tFcLwxjLz8gTWLoXUjTUFS5eQcnTcEoQ=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/bat\/bat.js"
-    },
-    {
-      "hash": "sha256-KSgKhm5oeEgK+4m8S0J0YKWB6jKPdRjzD4zaEb7s3R0=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/bat\/bat.min.js"
-    },
-    {
-      "hash": "sha256-doCzW9smv2WI5n\/CM2KhIv\/HtEc5GotbX\/RmHyoSQjY=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/bicep\/bicep.js"
-    },
-    {
-      "hash": "sha256-QV\/7Ez2p7o+aRvigaOSYnspLPCwQ+4kpmz8ucO9vZNg=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/bicep\/bicep.min.js"
-    },
-    {
-      "hash": "sha256-gwtCWtKtXw8lFRAoFK0AkjaXjrBE7QOkyXkHd5BUeRM=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/cameligo\/cameligo.js"
-    },
-    {
-      "hash": "sha256-jpEdjmXBGGNk0vdrRrqF60WYDO9s\/UwqblgGfiqwKxQ=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/cameligo\/cameligo.min.js"
-    },
-    {
-      "hash": "sha256-Idq9JVkDnZ6fw7arnhtHGVDB2aE0KkLzFQBo9tZpX3Y=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/clojure\/clojure.js"
-    },
-    {
-      "hash": "sha256-wpCWh7MxD21Emf8WMuiK8PLlmEzcabDLQSBu5fmF3qs=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/clojure\/clojure.min.js"
-    },
-    {
-      "hash": "sha256-Et4o4rVLa6xHGSPOLfTTdELIu9aVEqBrxNBwNxbZDeo=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/coffee\/coffee.js"
-    },
-    {
-      "hash": "sha256-oyE5WJggHWaySBdCAL9sLLFW96g0bz\/KvT\/mhPl76ds=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/coffee\/coffee.min.js"
-    },
-    {
-      "hash": "sha256-WlaDYt8Fe57Vsxs\/1YmGcw3sczSYSS9cEOBNnJULJvs=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/cpp\/cpp.js"
-    },
-    {
-      "hash": "sha256-p9hUWS9BLS\/TMA1K89x5qWJ4AsD4EyHmINLAdx7WUXM=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/cpp\/cpp.min.js"
-    },
-    {
-      "hash": "sha256-LSUdH81swZJ\/Z6dwLEWMLoYTwlkf1cC0WzAYmb3t604=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/csharp\/csharp.js"
-    },
-    {
-      "hash": "sha256-oacXjCID2p6riqUX8n6STzQ6MkcFx8YQV6j3NTRmue4=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/csharp\/csharp.min.js"
-    },
-    {
-      "hash": "sha256-4iFmi2inFVkCcxKHq5cU1na6FHVmc11TUAphFsmOT\/s=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/csp\/csp.js"
-    },
-    {
-      "hash": "sha256-7AoBgNYd264ugTnl7d5AS+XDHIS2qp0fyrPzGbDn3qE=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/csp\/csp.min.js"
-    },
-    {
-      "hash": "sha256-lwQpUJrCUUtR8qmGu+gN1D3OV6WSyCzwYlWyjJxjUd8=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/css\/css.js"
-    },
-    {
-      "hash": "sha256-jnYxw4gOw40TT\/4ljFM0t8nxdeu6youzg5bCgkUO9Ck=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/css\/css.min.js"
-    },
-    {
-      "hash": "sha256-I1Gly8dfXsDaCNusOpzJ9sevOI7SFf4Scc88LeIMGyU=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/cypher\/cypher.js"
-    },
-    {
-      "hash": "sha256-ybZAW1YMm68CFoNqQ4+0x9gcqTm+S+UAS1ZgQkxK+ms=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/cypher\/cypher.min.js"
-    },
-    {
-      "hash": "sha256-+xHx84zxey4gM\/X7vQwD4NNATUcEMGheIaKqTNBXOsU=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/dart\/dart.js"
-    },
-    {
-      "hash": "sha256-wj6AyUvCMeRWXh4rfhw+CK31eAQ6hxC9K+7ShmIAAeo=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/dart\/dart.min.js"
-    },
-    {
-      "hash": "sha256-wI6I3\/RZ1X5ujMhswKmz0T3U3Rn\/WswVoXEdG7dhq3g=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/dockerfile\/dockerfile.js"
-    },
-    {
-      "hash": "sha256-fsAqfTtkMINMNGTzrBP8pMqcCyY6nIKKao4Bxz4yNAI=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/dockerfile\/dockerfile.min.js"
-    },
-    {
-      "hash": "sha256-RgQ3A+1a168KSNIfk8+22kSmbr3HEGqqDnhtSMMDXuI=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/ecl\/ecl.js"
-    },
-    {
-      "hash": "sha256-58R5utEh0saHtMgNICQ3RxC16SSoaWrZkLvUa2PCpDg=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/ecl\/ecl.min.js"
-    },
-    {
-      "hash": "sha256-mgUGNOdTQPzliyEVkTQs+So7+bmZWQn9OdxtWzFmSQo=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/elixir\/elixir.js"
-    },
-    {
-      "hash": "sha256-pdjTrUIP+xQLpzR+g+UTWMygun8ULTS\/rf\/DWNr2YWw=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/elixir\/elixir.min.js"
-    },
-    {
-      "hash": "sha256-6z+KGi7jAhcv+M2pm99NjM7KrocFo2amR2PBinS1kWk=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/flow9\/flow9.js"
-    },
-    {
-      "hash": "sha256-\/Aerk5aaLUCPtS5eVRnSnSBLrVUJG7y5dn6zlT1p8zk=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/flow9\/flow9.min.js"
-    },
-    {
-      "hash": "sha256-C26qs3pvqOSMX7IVvhSyLXlmSA0IGUt1i0ZSCz37RzY=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/freemarker2\/freemarker2.js"
-    },
-    {
-      "hash": "sha256-NOhNpk77jUoMwy0n+YWAiDdQVBKZxih9BG+ZyYq4hYk=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/freemarker2\/freemarker2.min.js"
-    },
-    {
-      "hash": "sha256-fKjioIkAm1HINGVdrsw8zRGYh\/pA2dzrzzG71iwIAcM=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/fsharp\/fsharp.js"
-    },
-    {
-      "hash": "sha256-QK5JfTwuk4sC\/+YJB6Ox0jo5K3OgPFvx\/38liKKddrQ=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/fsharp\/fsharp.min.js"
-    },
-    {
-      "hash": "sha256-c32a9yzX4Ue5gPpVpudLOAliG7M0puTO4yEF7thXPBM=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/go\/go.js"
-    },
-    {
-      "hash": "sha256-UZH8brpc5KeqJTFtqgDF90Hr980ZOo9WZDkMNZ+B1rk=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/go\/go.min.js"
-    },
-    {
-      "hash": "sha256-lsdt73bE3OYdM2d3ga\/OmYsUPAXkEXM4lxkj9bfv0d8=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/graphql\/graphql.js"
-    },
-    {
-      "hash": "sha256-DRd2xekHSNZhKboOUyjJ8QtLEH7tBzcs550jwc2Ct\/8=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/graphql\/graphql.min.js"
-    },
-    {
-      "hash": "sha256-gRziC1x+iNbO2tOQSNGfu3dJYkZ8+UUfv\/fFb++DtZA=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/handlebars\/handlebars.js"
-    },
-    {
-      "hash": "sha256-7hubpLC1wDLYy+VM\/f4eKoye3mPBvjSuowy4GfgHff8=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/handlebars\/handlebars.min.js"
-    },
-    {
-      "hash": "sha256-X8i1wKvmwsoUW\/NIeuwXmFx+\/9zOt\/Zf1919Qfa\/eI8=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/hcl\/hcl.js"
-    },
-    {
-      "hash": "sha256-k09eoSgtjoD170OyHcsHzxxSMdYsPrRRHEN3rE9gza8=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/hcl\/hcl.min.js"
-    },
-    {
-      "hash": "sha256-akGM6qznIndGsCwzGB0UwUZZ8b7I8bZ7zibLJ\/YDeoA=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/html\/html.js"
-    },
-    {
-      "hash": "sha256-tkXdhTkcXcw21hNLC60vMnemQzwt1MrumxkqOlSVT6w=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/html\/html.min.js"
-    },
-    {
-      "hash": "sha256-G7Qx+1waSx3aRKsue+jgtfIyZyqHldxV5BOdXuQGQb0=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/ini\/ini.js"
-    },
-    {
-      "hash": "sha256-O8pNj8PxodIZAyEqO5\/G3zzUXiCF7\/wroU72FSebhRg=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/ini\/ini.min.js"
-    },
-    {
-      "hash": "sha256-e0JU7FJajiAtzONXYvcf0hWIZax4s\/dUZK8NBRuekaI=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/java\/java.js"
-    },
-    {
-      "hash": "sha256-wM6AprKo4i3lwCkP9BYvMxsDh2E1913cwieyC8CNb4Y=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/java\/java.min.js"
-    },
-    {
-      "hash": "sha256-FrItp\/U9K+Pa67EjF4bw2+YpSxUD3YF8hu\/WqN0C5mw=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/javascript\/javascript.js"
-    },
-    {
-      "hash": "sha256-uOQGq9rBociUXvK\/RKOgE+lsMTzixV28e89nSRnLs30=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/javascript\/javascript.min.js"
-    },
-    {
-      "hash": "sha256-wah39JTcJYGNSH++RsKuccJ7gwts3ZDy284u9bl6RP8=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/julia\/julia.js"
-    },
-    {
-      "hash": "sha256-YVjwHJLeNWj67lS+PO+VEhYe1pFuxshVJkcE5UToYHk=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/julia\/julia.min.js"
-    },
-    {
-      "hash": "sha256-olMLTxMim6Sjg68NNX339d486EILCCfihPhLMXXuZpI=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/kotlin\/kotlin.js"
-    },
-    {
-      "hash": "sha256-F9X9nzmNqavYLhNmbgJRIAX5jMJFUIXfzYGGfeCn\/KE=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/kotlin\/kotlin.min.js"
-    },
-    {
-      "hash": "sha256-UhfTfjzIL30PcKAkqfl6bmm9juaNBfIlaRfm\/aOSORA=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/less\/less.js"
-    },
-    {
-      "hash": "sha256-SydydHc5KgU5ZdHfRw\/cvGZkusUNr6VxQWaCJa4y+4I=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/less\/less.min.js"
-    },
-    {
-      "hash": "sha256-RuPYnw4EId2GFzrFYMW7j\/gzqDDs68mClrd5pChzGdM=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/lexon\/lexon.js"
-    },
-    {
-      "hash": "sha256-h\/3PeF1fuj6DXLLKxHMA4cSc1ZCLfu3lIyuOZJQ4Ais=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/lexon\/lexon.min.js"
-    },
-    {
-      "hash": "sha256-z02jA2egP\/QT92+4fPyz2cvAfqGooBtMorFqUYp0Ysc=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/liquid\/liquid.js"
-    },
-    {
-      "hash": "sha256-DDZasuv5hWOVLsoD113FOqYGBD1CsQ3O60tjS\/l4YcA=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/liquid\/liquid.min.js"
-    },
-    {
-      "hash": "sha256-GLHbxlDVjPoApdMVG1S+Ly7\/O8c0IqjAnERcn8I\/FhQ=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/lua\/lua.js"
-    },
-    {
-      "hash": "sha256-zr3HckeEs5EbdWA9\/jzoWI+cOunK4efcYEoIY9IU1CY=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/lua\/lua.min.js"
-    },
-    {
-      "hash": "sha256-xD1xXWijFx7kbf17N17wlTVCahHMNZC2ny3TaYwcdIs=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/m3\/m3.js"
-    },
-    {
-      "hash": "sha256-ZMTyzK4QmYwKUVXUdtsnMaO6ADHC6PM7R\/TnSTXz7nQ=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/m3\/m3.min.js"
-    },
-    {
-      "hash": "sha256-6Jlf5tdhIZDpckDlYOBJSthrErsKvaWegwMgzT41rCc=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/markdown\/markdown.js"
-    },
-    {
-      "hash": "sha256-bVoG7kpU+\/sEBzuijBlQn9bNFfizmmQuHiXhiPs9JXE=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/markdown\/markdown.min.js"
-    },
-    {
-      "hash": "sha256-OeTfYEzzBfItjbZ0Vb\/3SupKhfdXXYG\/\/NTKzdNFuUA=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/mips\/mips.js"
-    },
-    {
-      "hash": "sha256-mVOSPMHOrCEMwexYuFyj3R2TaoauVzGnuVXEf3ah\/FM=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/mips\/mips.min.js"
-    },
-    {
-      "hash": "sha256-Z+Zz7UlHaatZGGMrLuxYeBr8+REaB7IQS1DyYCO\/KqY=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/msdax\/msdax.js"
-    },
-    {
-      "hash": "sha256-TBthPcvozCb3P5mC5VNvMdqK8cM6pGtVP2\/YWsNLc6Y=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/msdax\/msdax.min.js"
-    },
-    {
-      "hash": "sha256-L\/Kr38sHvmanZ1gvU\/cOUrtqmdG4kO5ZPc+q+DrtQF4=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/mysql\/mysql.js"
-    },
-    {
-      "hash": "sha256-IS2k1FRV216dQEgLHTDp69hvHE3oxwyHy5oxu9xStP4=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/mysql\/mysql.min.js"
-    },
-    {
-      "hash": "sha256-zFIxdad\/On9iSfH1oDy9sLLnnkp86p8+RUDOp8qItic=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/objective-c\/objective-c.js"
-    },
-    {
-      "hash": "sha256-p3cClizwJuZxDNfEMZuftU8gdCUm8O5znMEum7dCFEo=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/objective-c\/objective-c.min.js"
-    },
-    {
-      "hash": "sha256-z1N1DOW2YBdbOv2qej7vOpPiftu+L20\/Gtx0xvUzy1M=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/pascal\/pascal.js"
-    },
-    {
-      "hash": "sha256-sFaJDrXctaaIWBQy\/kDjn074+NcBZtG0Bh2TaikN8RE=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/pascal\/pascal.min.js"
-    },
-    {
-      "hash": "sha256-6wSk4KJ5wnRk7\/nhgI4XWwoxBBK9MtLtpljXUaCySRM=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/pascaligo\/pascaligo.js"
-    },
-    {
-      "hash": "sha256-qCKz+blxfB9ISpritXiSKvA0RQe7Npd+2CdHOtb6PvA=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/pascaligo\/pascaligo.min.js"
-    },
-    {
-      "hash": "sha256-vOZhHmrKo3t\/yo9ZDf5iFvUOAsKF8N\/nH4h44CPkcVQ=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/perl\/perl.js"
-    },
-    {
-      "hash": "sha256-dUF2QjdnM9A5imp9Ni9toAWityUta0YZZKJboyUIQlY=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/perl\/perl.min.js"
-    },
-    {
-      "hash": "sha256-zaU8HhhYxIKHvEiQRiM5AJPY84vHLTOrV+wnufHMuP8=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/pgsql\/pgsql.js"
-    },
-    {
-      "hash": "sha256-Y3UhGBYA1m0taUGfpkQs6rLyeA\/vHe\/H4Z2pZuVnqoU=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/pgsql\/pgsql.min.js"
-    },
-    {
-      "hash": "sha256-afWIU24OgGbKZ3LvQ\/YJceLqxuVbYTMzoeQV2EpsETk=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/php\/php.js"
-    },
-    {
-      "hash": "sha256-PkHwDAjUS8Apsx2W6x0+F7Wn16thRisglEIDYQ5lQdI=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/php\/php.min.js"
-    },
-    {
-      "hash": "sha256-d40+qMgoo8qtYLRi5l4aKrUUL5sY+Kzw9nyX9o8oT+E=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/pla\/pla.js"
-    },
-    {
-      "hash": "sha256-xFu3pMufbE4HBdMu8N+U8Z7sgWyCuktyL6WrnVAvwko=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/pla\/pla.min.js"
-    },
-    {
-      "hash": "sha256-bn7DQVHf7cSJ4Wf+HlSmTAMYM6m5MfkDNdwgsj+P5fw=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/postiats\/postiats.js"
-    },
-    {
-      "hash": "sha256-TWuXvSpq1Uyrh05ZxMwTVNCeXgD4Xn\/M7eDiDOVeLYM=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/postiats\/postiats.min.js"
-    },
-    {
-      "hash": "sha256-vPvsG+HFkOtj5zsnodWfLxrkkBfQal4B2TwyqQhzEfs=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/powerquery\/powerquery.js"
-    },
-    {
-      "hash": "sha256-t2Id5n0wM\/41taNNnIoHbayBDRSXAnS1opFRnQ8BNk0=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/powerquery\/powerquery.min.js"
-    },
-    {
-      "hash": "sha256-ivIxvlm6VnK9CToYHS3\/SgCUNfJGU0HTSpz41vslV2s=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/powershell\/powershell.js"
-    },
-    {
-      "hash": "sha256-UYjqpk8oWXKuFKHb0o7Y3oLkyFb1esPKmagvq4KkxKQ=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/powershell\/powershell.min.js"
-    },
-    {
-      "hash": "sha256-AIkWwrsij9+4Zr2Yw1BmRxjRC\/iItl1O3jdjJEzcp+U=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/protobuf\/protobuf.js"
-    },
-    {
-      "hash": "sha256-5eSSI2L8KtcIgS1inegI3GKcXDRW6eseV\/4RvfBh2QY=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/protobuf\/protobuf.min.js"
-    },
-    {
-      "hash": "sha256-En7QnRR8DOx6mkn3Yi0WRUox65GDc+F4OGzNxDsfUXo=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/pug\/pug.js"
-    },
-    {
-      "hash": "sha256-GBpwZyk5jentrlRupRxu3NU1JgXQI3PGEDpXVVRda8c=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/pug\/pug.min.js"
-    },
-    {
-      "hash": "sha256-vygS7OKkuC8y4oQowfWRGXXus4rK6ptjFXxLQygmSVI=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/python\/python.js"
-    },
-    {
-      "hash": "sha256-3gjft\/u72ZUwuTLdIRF5Kjce40NWV0oACaJBoOSV54g=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/python\/python.min.js"
-    },
-    {
-      "hash": "sha256-Q85hnXb6b4n5AmCn8NGrxbNRv7f0zjG3xCMfn4hv3DM=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/qsharp\/qsharp.js"
-    },
-    {
-      "hash": "sha256-qTUMdIvVvU2DoYRiXm8WPrho1Ng08zZg3QpyP02FOiY=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/qsharp\/qsharp.min.js"
-    },
-    {
-      "hash": "sha256-0uDoLPVfUk3uEI0DnvuHd36VCwbP2uSWmuulT4f\/t8Y=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/r\/r.js"
-    },
-    {
-      "hash": "sha256-4b+1xAw8D0XjWcYZ4EqcS1It9uOpHB\/abrvXx+0Vaa0=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/r\/r.min.js"
-    },
-    {
-      "hash": "sha256-rpAG0Mv3wiU\/jZR98EWRXsEdBkA7Jh0kTCU\/+HtRts0=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/razor\/razor.js"
-    },
-    {
-      "hash": "sha256-T2bknV1CFUVD\/wlCmX5JJZfCaGtYlfFptwEwUc+oyv8=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/razor\/razor.min.js"
-    },
-    {
-      "hash": "sha256-tB780bu7R4gohgNbdUt6IjfloTLpw+L0Rfs8dZwLeJQ=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/redis\/redis.js"
-    },
-    {
-      "hash": "sha256-5YttesdxxhJEcd2MBkHShvl62aCeRQfvWSHCFZPvCyI=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/redis\/redis.min.js"
-    },
-    {
-      "hash": "sha256-bVFmDplQc5rwbmh8Q54CaOShSW+uScbclH4A55XzLZw=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/redshift\/redshift.js"
-    },
-    {
-      "hash": "sha256-B0pWR2w2Ygh\/sD9q\/MITGpa8ZTzWvmJ\/Vr1MPrCQTQA=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/redshift\/redshift.min.js"
-    },
-    {
-      "hash": "sha256-QmgukNVPHmuazKjJc+1p5jN3yX07EFhfow31Vxiau2c=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/restructuredtext\/restructuredtext.js"
-    },
-    {
-      "hash": "sha256-W3SJMMfAmyfux+MktxPea2YzzvQmSwM4e3VaMhFS9CA=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/restructuredtext\/restructuredtext.min.js"
-    },
-    {
-      "hash": "sha256-0aNmMp11dxuQhPBJbRVWxIsOFHxK2IMZ4Fwc89ONO7U=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/ruby\/ruby.js"
-    },
-    {
-      "hash": "sha256-tbzsOg6I2+MXJAUoMhVlTNZwL\/yd5ClOaQsFj4SoU28=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/ruby\/ruby.min.js"
-    },
-    {
-      "hash": "sha256-dQaBTFfpZYG578OdkjUNVFJ62seE2lLgrVrTpcKY7Gc=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/rust\/rust.js"
-    },
-    {
-      "hash": "sha256-blUaNFbRgAJK3PBa7D5At7EjDv7ERpzfEsIJjuLOct8=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/rust\/rust.min.js"
-    },
-    {
-      "hash": "sha256-JBV2uhYqySicy9PtlGmpoq1nJQNOVWmq3UZ8ihJ4jss=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/sb\/sb.js"
-    },
-    {
-      "hash": "sha256-Z9gv84lmt66Qs4ipNf0fZPsMf5lTZl+SuIbqMj5Dpfw=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/sb\/sb.min.js"
-    },
-    {
-      "hash": "sha256-qUoSj8NXikGRSXpm6loNgppygG\/LusVEXEKaColvn5Y=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/scala\/scala.js"
-    },
-    {
-      "hash": "sha256-mqmwqZRsoeT\/YkQGG2iqLmHa7Uxs2ki59orsMhbQuGs=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/scala\/scala.min.js"
-    },
-    {
-      "hash": "sha256-9yCrVuPa0BWn9y+tswbXSVgCQbSTUed++13lY+RlASs=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/scheme\/scheme.js"
-    },
-    {
-      "hash": "sha256-MTMWqPKCAvLnpfFMwtm3UWiYWlh\/TA2bjqAZQGVDY70=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/scheme\/scheme.min.js"
-    },
-    {
-      "hash": "sha256-ZGhe\/biYx6IO+lYaKSO3jG7LcwseYZi6aCR8YKhMLaY=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/scss\/scss.js"
-    },
-    {
-      "hash": "sha256-5\/R9Bub7FvoaYFWIQWmQ6HJfs3TgBMZ5M89FgqUZOnM=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/scss\/scss.min.js"
-    },
-    {
-      "hash": "sha256-knnksAEz1e3pbTPVS1he2dncUV3sUdBaoQPg7ai00KU=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/shell\/shell.js"
-    },
-    {
-      "hash": "sha256-XYuBIxGDlKrjkj+WeLrW1PS5ZCcPNTBCKXx5AT5QCeU=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/shell\/shell.min.js"
-    },
-    {
-      "hash": "sha256-+c1r2ZAHSyjSeHQgB4f7zo6Z44m0oG7ri0iXhl7bitk=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/solidity\/solidity.js"
-    },
-    {
-      "hash": "sha256-RyyK34Kv3jm6vNVhyLaoijKEvaHHBMvITt07rxnHhiI=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/solidity\/solidity.min.js"
-    },
-    {
-      "hash": "sha256-38vIXVZ6wAcXk7qjX9kTwes\/2KPsoi3V8KWHAOfOWcg=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/sophia\/sophia.js"
-    },
-    {
-      "hash": "sha256-rjTycOFK5JptJvyayn\/RmdHEzgTzeAlyWQEsc2v30+Q=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/sophia\/sophia.min.js"
-    },
-    {
-      "hash": "sha256-pxj8dBWNtIE0z1LxK5hfUKI5gERfxSRiturgxwlPYC8=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/sparql\/sparql.js"
-    },
-    {
-      "hash": "sha256-fX1+by8x1n7e1Pq4DwWwfLCl9K7K\/laBh3uvzJOzZMg=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/sparql\/sparql.min.js"
-    },
-    {
-      "hash": "sha256-3DagoGQhRw36FDzQCckAcJWsK0GJZ+kdnZ4D6CRhvJ4=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/sql\/sql.js"
-    },
-    {
-      "hash": "sha256-nQkKKhsfKNPlmVPccYoX572Gbse4aNJLbwYYjNBG2\/w=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/sql\/sql.min.js"
-    },
-    {
-      "hash": "sha256-OEQ9TYI2oG9N0mv7Ylwa4ilU36eTpX+BD62MEJbp\/bA=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/st\/st.js"
-    },
-    {
-      "hash": "sha256-holFCb85YxnB8i6YXLtdhcBC+5JssjUOnvUB7A0xE4M=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/st\/st.min.js"
-    },
-    {
-      "hash": "sha256-YPPQjUmSkiikK9gvjNNrGPdSFgU4TTNk6bFxmU71JO8=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/swift\/swift.js"
-    },
-    {
-      "hash": "sha256-lxAtaYpa\/cVM4e6yermbauA7KsVsRE4ny9CH5LZeRUs=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/swift\/swift.min.js"
-    },
-    {
-      "hash": "sha256-MK9qXWimfrwajBMmV4Lj0XBCZ0ROM6FAXOX4GR2i8Ug=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/systemverilog\/systemverilog.js"
-    },
-    {
-      "hash": "sha256-uASU5VV3+JycyPfEfjb05wmOEdtojuEwq1eXPuujGlM=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/systemverilog\/systemverilog.min.js"
-    },
-    {
-      "hash": "sha256-TJIiKOUSyHsDtADG1XGwGAHeebSacCv8e+XVH86HqhE=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/tcl\/tcl.js"
-    },
-    {
-      "hash": "sha256-dZCQjt0\/Xdx3zWJfrIRczzr6sLUfmEDKepS6+rCmPRA=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/tcl\/tcl.min.js"
-    },
-    {
-      "hash": "sha256-V0L46DHQMLvnUoJXgbj+N0bXQ6dw3QInMY7GckbahYs=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/twig\/twig.js"
-    },
-    {
-      "hash": "sha256-jvQbaRF1LWRZc3RiCyhSyFWwHHy6PpN6M8l7+5Rs3D4=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/twig\/twig.min.js"
-    },
-    {
-      "hash": "sha256-NLDFw5F5SPT5zyqNCXdpv9I0ph9EIv3JIwEHji+bVFY=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/typescript\/typescript.js"
-    },
-    {
-      "hash": "sha256-IHXcHTCMpP3rmDqsxZBriYUG3Qy8hHqXqaM7+85BsPE=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/typescript\/typescript.min.js"
-    },
-    {
-      "hash": "sha256-WsMy6B3Lfu3qIkC8pE9USUyWiRA51A4Ag9bM83XbIps=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/vb\/vb.js"
-    },
-    {
-      "hash": "sha256-nip3592D\/3Qhp4HfQwIpA3gBhKq\/CbSa9tS3r8pHtiE=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/vb\/vb.min.js"
-    },
-    {
-      "hash": "sha256-IL0bRDKUupBax4Vofjcd8gRLwIntCRFPY5It\/0A+Jt4=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/xml\/xml.js"
-    },
-    {
-      "hash": "sha256-1FaziThrxKUiYyVN77aL6pwB42+2SSgH5t2XL566zZI=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/xml\/xml.min.js"
-    },
-    {
-      "hash": "sha256-3Gd2WGszZpTns+Dndl+itznEoH11F1CmQ0sKwvXGzsg=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/yaml\/yaml.js"
-    },
-    {
-      "hash": "sha256-KezGWPoZPhhKMQT3IOp1bIjuZnCVsyAvTdSkRBTLcgI=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/basic-languages\/yaml\/yaml.min.js"
-    },
-    {
-      "hash": "sha256-fTdFFoSIRkHVjuY3tiARtKnFsLF52ED0aChUSHc4WrI=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.css"
-    },
-    {
-      "hash": "sha256-tQ6lSSFIOcqa599Nzsd8FtD7OeFyVBq4zx4OGbUm03E=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.js"
-    },
-    {
-      "hash": "sha256-E+B4jDhcJ9kQ+zl8Difh4vI9BIXxear\/I3kCwcT0Jrc=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.min.css"
-    },
-    {
-      "hash": "sha256-etrND7cT\/oWH4WGNBnUPlG8sKOXRJ7sCo3Ct17VkOug=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.min.js"
-    },
-    {
-      "hash": "sha256-Pd9zPRq7pR+2Y4XVBqzHw7xxuXCSfKzO4KzLu7Oi70I=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.nls.de.js"
-    },
-    {
-      "hash": "sha256-Jq6cjN2z\/9\/rke45gvxVBQ3aIixREcjY6roU41ERuPw=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.nls.de.min.js"
-    },
-    {
-      "hash": "sha256-xYAT+EEofEn\/s+r4toBtrXBWd4WMzCeGfMVr04Kj7hg=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.nls.es.js"
-    },
-    {
-      "hash": "sha256-Xp\/bD9aXl1v7YbSVi47N5wEmIyfCqTVS4G6C+l4hr60=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.nls.es.min.js"
-    },
-    {
-      "hash": "sha256-Vl3+h0qFogLdpBn+HzPT\/22oUrNZfunxF4RIHOd3oTI=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.nls.fr.js"
-    },
-    {
-      "hash": "sha256-8hTk4cv6xcL92ZugTM4AyHCo6ek655zrPFkEwyBDQro=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.nls.fr.min.js"
-    },
-    {
-      "hash": "sha256-dMzCJENI8peYT4ek+1SzfrPdAYcT2Led8V7XTJh9W6M=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.nls.it.js"
-    },
-    {
-      "hash": "sha256-s0W3D9lZUtSSLDRXRVLf4C4hKCnXdB4A1\/DrrGKTv7Y=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.nls.it.min.js"
-    },
-    {
-      "hash": "sha256-vM8hE8WyVjYSvJZVSditCYCWXq7fN6xhKvjzE+YGC98=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.nls.ja.js"
-    },
-    {
-      "hash": "sha256-HKagDPzw+42kQitcnhGTDMAYUMjV7ICJz+mGkIxTWzQ=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.nls.ja.min.js"
-    },
-    {
-      "hash": "sha256-aAQJrQJNjch+95SvDsLsrBEccXtRpFGYFoJYQqNgTHQ=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.nls.js"
-    },
-    {
-      "hash": "sha256-1zPTCahqQqVOl0RP8LFqwppPP2VH3hdxIzefqu2MC9s=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.nls.ko.js"
-    },
-    {
-      "hash": "sha256-s\/urrGuQS23q0CBzzHbWToULd1CS60eVEmu8OPafLUw=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.nls.ko.min.js"
-    },
-    {
-      "hash": "sha256-yJedao5uVMSrAY6dHIQ19tsFN8c4rxL5EM4MaiN1amg=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.nls.min.js"
-    },
-    {
-      "hash": "sha256-tvRBkU2N3gS8w79AAnpMHqgYxddpDUOvv9iX\/LURs0E=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.nls.ru.js"
-    },
-    {
-      "hash": "sha256-mJJi3ApDHEtNwRUp4R2gG3ep1nEK9OdCQvJa+IxFKkk=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.nls.ru.min.js"
-    },
-    {
-      "hash": "sha256-NSCDZkRKqZv5CYZSsL1lA4g1bYNK0OCNrTEYHyOcuf4=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.nls.zh-cn.js"
-    },
-    {
-      "hash": "sha256-faow4S2m8fNXOKjcayhkQ21jl4hADf9hBanrkFMhJv8=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.nls.zh-cn.min.js"
-    },
-    {
-      "hash": "sha256-nYzP4My0oQa1TmvNjV9zwAsiXM1WmxlgMaEMA6kg1ck=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.nls.zh-tw.js"
-    },
-    {
-      "hash": "sha256-Hwn6yZBQX\/S+cAqoLT+7E0NPTRosuPnb6Y6eoW68LCk=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/editor\/editor.main.nls.zh-tw.min.js"
-    },
-    {
-      "hash": "sha256-tcz8pJQtf4yeVyfFk9ZCfV5Stuf3noEHiEx\/XJ9yKh4=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/css\/cssMode.js"
-    },
-    {
-      "hash": "sha256-0l025dxR\/NZETEMJ0F7dwJ8NReXrEYwu0dgWOi9piSo=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/css\/cssMode.min.js"
-    },
-    {
-      "hash": "sha256-KZoznTmDNZRdo9Ac9LmNcysNzUtMEikhwWHau7F2v9w=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/css\/cssWorker.js"
-    },
-    {
-      "hash": "sha256-mBuLILkDGzqYRLVkK2OES8o2\/7qvpm4XPx83EEUk\/6U=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/css\/cssWorker.min.js"
-    },
-    {
-      "hash": "sha256-d0gWjWSheGKBSkL7BUiQAcSZJ5fDOJ4mtZXqTMgNLJE=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/html\/htmlMode.js"
-    },
-    {
-      "hash": "sha256-+GWhW6N98OCsYveBKnbn3+H9PMPf4DrQakI8XruM3+k=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/html\/htmlMode.min.js"
-    },
-    {
-      "hash": "sha256-WmtztrQdrR\/X6bGQQ0VH1V7JUrObT\/b3YMYgUrb7oKQ=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/html\/htmlWorker.js"
-    },
-    {
-      "hash": "sha256-PXvkp\/ZE78VkHWR+WmHdE2DUHBnQ3zqWH2GuayzYcQo=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/html\/htmlWorker.min.js"
-    },
-    {
-      "hash": "sha256-meOfz\/pvJvyf4uKhHQGfCiV7mwsgnyPlzs7Bi51GroI=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/json\/jsonMode.js"
-    },
-    {
-      "hash": "sha256-ncOj6UPJcl5JL4ARnGdihzCYlbiOElNtpKzRVhsO81k=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/json\/jsonMode.min.js"
-    },
-    {
-      "hash": "sha256-6qF\/iYaxk+uj4o1j2qza41u\/O4V2h\/M5+cYRpz7i8R0=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/json\/jsonWorker.js"
-    },
-    {
-      "hash": "sha256-QyCUm9G8p\/kQkOcfmmi2AC3izvr0Ijhcn6SJj6QmLDY=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/json\/jsonWorker.min.js"
-    },
-    {
-      "hash": "sha256-9NKFcjEL8WlJNCuaCShUb+RcbU3uMmb3WIN423NA7Qo=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/typescript\/tsMode.js"
-    },
-    {
-      "hash": "sha256-QJOnA2mEXveh2jCoBGes\/XF8yxBD82qhggSH6\/FLbh0=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/typescript\/tsMode.min.js"
-    },
-    {
-      "hash": "sha256-D0YR9n+DSRxE67bRngxVCC8\/X9rCWV0ep4fCfsMjkZg=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/typescript\/tsWorker.js"
-    },
-    {
-      "hash": "sha256-ydstU3CW\/lv+jyIfOZXT5VcAgWshhIZsRYNcQZwGPVg=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/language\/typescript\/tsWorker.min.js"
-    },
-    {
-      "hash": "sha256-Nz+9xAJobnwZzjWKswoVGvxZhOdjpb9ILmKxOalIdsE=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/loader.js"
-    },
-    {
-      "hash": "sha256-EvtKJxILzPP4lGCRt2ue8Ftgz0NpOYv0owGt8Cjbf08=",
-      "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/loader.min.js"
-    },
-    {
-      "hash": "sha256-Hq8eaBMvSZ9zu+NjWkUVI5xPaEjBvAc7DkD2CxXPBLU=",
+      "hash": "sha256-wX1LB4yuBRFM4fmdSsH6jBlCch9uCHXV9uFTxnz2blQ=",
       "url": "decode.min.js"
     },
     {
-      "hash": "sha256-3qRV12NR2j2WZx5PQPi0GepTMzaIH\/64UP05PxhekPg=",
+      "hash": "sha256-o1qrUazFD8MPygFt+oWr3C+bSJuECWGcOxNQzps7NEk=",
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "wf64wJvX"
+  "version": "KKU8T2vS"
 };
